@@ -95,7 +95,6 @@ nav:
   - Talks: talks.md
   - Teaching: teaching.md
   - Public Data: data.md
-  - Codebase:
-    - Python: python.md
-    - R: r.md
-    - Docker: docker.md
+  - Code: code.md
+    - porder: porder.md
+    - calliope: calliope.md
