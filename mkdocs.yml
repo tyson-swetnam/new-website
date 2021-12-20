@@ -90,11 +90,12 @@ nav:
   - Home: index.md
   - Current Projects: current_projects.md
     - Previous Projects: previous_projects.md
-  - CV: cv.md 
+  - CV: 
+    - Curriculum Vitae: cv.md
     - Publications List: publications.md
   - Talks: talks.md
   - Teaching: teaching.md
-  - Public Data: data.md
-  - Code: code.md
+  - Public Data Sets: data.md
+  - Code: 
     - porder: porder.md
     - calliope: calliope.md
