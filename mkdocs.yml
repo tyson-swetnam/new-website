@@ -1,4 +1,4 @@
-site_name: tyson-swetnam
+site_name: home
 site_description: T.L. Swetnam's Professional Website
 site_author: Tyson L Swetnam
 site_url: https://tyson-swetnam.github.io/tyson-swetnam
@@ -26,7 +26,7 @@ theme:
   language: en
   palette:
     scheme: default
-    primary: navy
+    primary: blue
     accent: red
   font:
     text: Google Sans
