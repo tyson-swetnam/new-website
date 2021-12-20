@@ -27,7 +27,7 @@ theme:
   palette:
     scheme: default
     primary: blue
-    accent: red
+    accent: pink
   font:
     text: Google Sans
     code: Regular
@@ -40,10 +40,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tyson-swetnam
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/tswetnam
-    - icon: fontawesome/brands/google
-      link: https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en
 
 # Extensions
 markdown_extensions:
