@@ -1,0 +1,101 @@
+site_name: tswetnam
+site_description: T.L. Swetnam's Professional Website
+site_author: Tyson L Swetnam
+site_url: https://tyson-swetnam.github.io/home
+
+# Repository
+repo_name: tyson-swetnam
+repo_url: https://github.com/tyson-swetnam/tyson-swetnam
+edit_uri: edit/main/docs/
+# Copyright
+copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
+
+# Configuration
+theme:
+  name: 'material'
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    scheme: default
+    primary: blue
+    accent: pink
+  font:
+    text: Google Sans
+    code: Regular
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tyson-swetnam
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/tswetnam
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - Home: index.md
+  - Current Projects: current_projects.md
+    - Previous Projects: previous_projects.md
+  - CV: cv.md 
+    - Publications List: publications.md
+  - Talks: talks.md
+  - Teaching: teaching.md
+  - Public Data: data.md
+  - Codebase:
+    - Python: python.md
+    - R: r.md
+    - Docker: docker.md
