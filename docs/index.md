@@ -30,6 +30,6 @@ I am also an active member of [The Carpentries](https://carpentries.org) and [Re
 My first career was as a wildland firefighter. I worked for the US DOI National Park Service as a forestry technician for Saguaro National Park from 2002-2005. 
 Later, during my Ph.D. program, I worked as a Fire Management Specialist for the USDA Forest Service Coronado National Forest Supervisor's Office from 2008-2012.
 
-My graduate research work focused on the application of [dendrochronology](https://ltrr.arizona.edu) and dendroecology with a strong emphasis on Geographic Information Systems (GIS) and Remote Sensing of large data sets. I used those data to analyze disturbance regimes and carbon in western forested ecosystems. 
+My graduate research focused on the applications of [dendrochronology](https://ltrr.arizona.edu) and dendroecology, Geographic Information Systems (GIS), and Remote Sensing for Watershed Management. I used those data to analyze disturbance regimes and carbon in western forested ecosystems. 
 
-That experience, working with new sensors and data types led me into a career in data science and informatics.
+That experience working on new sensor and data types led me into my career in data science and geoinformatics.
