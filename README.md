@@ -1,8 +1,7 @@
-[![pages-build-deployment](https://github.com/tyson-swetnam/tyson-swetnam/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tyson-swetnam/tyson-swetnam/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/tyson-swetnam/home/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tyson-swetnam/home/actions/workflows/pages/pages-build-deployment)
 
-# website
+# Personal Website
 
-tyson-swetnam.github.io
-tysonswetnam.com
+[tyson-swetnam.github.io/home](https://tyson-swetnam.github.io/home)
 
 mkdocs website build
