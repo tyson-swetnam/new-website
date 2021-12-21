@@ -21,9 +21,9 @@ My personal research interests include applied use of cyberinfrastructure for ge
 
 As a research professor, I am not required to teach credit courses at the University.
 
-I help to teach workshops on foundational open science skills, and containers via the ![CyVerse Learning Institute](https://learning.cyverse.org) 
+I help to teach workshops on foundational open science skills, and containers via the [CyVerse Learning Institute](https://learning.cyverse.org) 
 
-I am also an active member of ![The Carpentries](https://carpentries.org) and ![Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
+I am also an active member of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
 
 ### Previous work experience
 
@@ -32,4 +32,4 @@ Later, during my Ph.D. program, I worked as a Fire Management Specialist for the
 
 My graduate research work focused on the application of [dendrochronology](https://ltrr.arizona.edu) and dendroecology with a strong emphasis on Geographic Information Systems (GIS) and Remote Sensing of large data sets. I used those data to analyze disturbance regimes and carbon in western forested ecosystems. 
 
-That experience, working with new sensors and data types led me into a carrer in data science and informatics.
+That experience, working with new sensors and data types led me into a career in data science and informatics.
