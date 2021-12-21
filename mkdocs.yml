@@ -39,7 +39,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/tyson-swetnam
+      link: https://github.com/tyson-swetnam/
 
 # Extensions
 markdown_extensions:
@@ -93,4 +93,4 @@ nav:
   - Talks: talks.md
   - Teaching: teaching.md
   - Public Data Sets: data.md
-  - Code: 
+  - Code: code.md
