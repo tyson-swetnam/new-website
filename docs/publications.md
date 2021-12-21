@@ -1,6 +1,6 @@
 # Peer Reviewed Publications
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en)
+[![scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en){ height="16" } [Google Scholar Profile](https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en)
 
 **32. Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community**
 *Published in Ecosphere*
