@@ -2,6 +2,6 @@
 
 # Personal Website
 
-[tyson-swetnam.github.io/home](https://tyson-swetnam.github.io/home)
+[tyson-swetnam.github.io/home/](https://tyson-swetnam.github.io/home/)
 
 mkdocs website build
