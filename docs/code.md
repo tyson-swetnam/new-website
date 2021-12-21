@@ -2,12 +2,12 @@ Most of my software projects are maintained through my personal GitHub username 
 
 Open Source Software Projects which I've supported or led in the recent past:
 
-# Java
-
+<p align="left">
 <figure markdown> 
-    ![java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png){ width="100" }{ align=left }
+    ![java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png){ width="100" }
     <figcaption>Java Based Projects</figcaption>
 </figure>
+</p>
 
 ### [Calliope](https://cyverse-gis.github.io/calliope/) 
 
@@ -17,7 +17,13 @@ sUAS drone data indexing and management in CyVerse
 
 **Note: Project currently suspended and is pending new support**
 
-# Python
+
+<p align="left">
+<figure markdown> 
+    ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){ width="100" }
+    <figcaption>Python Based Projects</figcaption>
+</figure>
+</p>
 
 ## [Porder](https://github.com/tyson-swetnam/porder)
 
