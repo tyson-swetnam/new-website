@@ -35,7 +35,7 @@ See the [Open Dendro project pages](https://opendendro.github.io/opendendro)
 See the [Rillgen2D project pages](https://tyson-swetnam.github.io/rillgen2d)
 
 <figure markdown> 
-    ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg){ width="100" }
+    ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png){ width="100" }
     <figcaption>R Based Projects</figcaption>
 </figure>
 
@@ -46,8 +46,8 @@ Created by my undergraduate student [Daniel Lee](https://github.com/danielshulee
 See the [NEON Shiny App GitHub repository](https://github.com/cyverse-gis/neon-shiny-browser)
 
 <figure markdown> 
-    ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg){ width="100" }
-    <figcaption>Docker Containers</figcaption>
+    ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg){ width="200" }
+    <figcaption>Containers</figcaption>
 </figure>
 
 See the [CyVerse-VICE GitHub Organization](https://github.com/cyverse-vice/) for featured containers that I maintain
