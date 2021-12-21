@@ -4,13 +4,13 @@
 
 ## About Me
 
-(https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
+[(https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
 * Research Assistant Professor of Geoinformatics at the University of Arizona [BIO5 Institute](https://bio5.org). 
 * Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with a diverse group of data science oriented projects in the life and earth sciences.
 
 <figure markdown> 
-  ![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }
+  <a href="http://cyverse.org/" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }{ align=left }
   <figcaption>a public research cyberinfrastructure for science</figcaption>
 </figure>
 
