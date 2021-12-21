@@ -12,9 +12,11 @@ In 2016, in collaboration with the Arizona Game and Fish Department, and the Uni
 
 A second post-doctoral appointment was supported by a funding agreement between The University of Arizona and the United States Department of Agriculture (USDA) Agricultural Research Service (ARS) Southwest Watershed Research Center (SWRC) to study remote sensing of semi-arid grasslands on the Walnut Gulch Experimental Watershed (WGEW) and the Santa Rita Experimental Range (SRER). Both WGEW and SRER are Long Term Agricultural Research (LTAR) sites, SRER is also a NEON Core Site. 
 
-## Critical Zone Observatory Networks
+## Critical Zone Observatory Network
 
-My post-doctoral research was supported by the NSF Critical Zone Observatories Network, where I worked in the Santa Catalina - Jemez Observatory
+[![NSF-1041448](https://img.shields.io/badge/NSF-1041448-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1041448) [![NSF-1331408](https://img.shields.io/badge/NSF-1331408-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1331408) [![NSF-0724958](https://img.shields.io/badge/NSF-0724958-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0724958)
+
+My post-doctoral research was supported by the NSF Critical Zone Observatories Network, where I worked as a member of the [Santa Catalina Mountains - Jemez River Basin Observatory](https://czo-archive.criticalzone.org/catalina-jemez/)
 
 ## US Forest Service Carbon Mapping
 
