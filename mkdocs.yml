@@ -1,11 +1,11 @@
-site_name: tyson-swetnam
+site_name: home
 site_description: 'T.L. Swetnam'
 site_author: 'Tyson L Swetnam'
-site_url: https://tyson-swetnam.github.io
+site_url: https://tyson-swetnam.github.io/home
 
 # Repository
 repo_name: tyson-swetnam
-repo_url: https://github.com/tyson-swetnam/tyson-swetnam.github.io
+repo_url: https://github.com/tyson-swetnam/home
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
