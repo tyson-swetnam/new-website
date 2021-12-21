@@ -84,12 +84,14 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Projects: 
+  - Research: 
     - Current: current_projects.md
     - Previous: previous_projects.md
-  - CV: 
-    - Curriculum Vitae: cv.md
-    - Publication List: publications.md
+    - Awards: awards.md
+    - Employment Opportunities: jobs.md
+  - Curriculum Vitae: 
+    - Download: cv.md
+    - Pubication List: publications.md
   - Talks: talks.md
   - Teaching: teaching.md
   - Public Data Sets: data.md
