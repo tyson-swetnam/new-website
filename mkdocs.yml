@@ -40,6 +40,8 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+    admonition:
+      location: octicons/location-16
 
 # Options
 extra:
