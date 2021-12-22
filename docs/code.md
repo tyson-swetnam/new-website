@@ -1,6 +1,8 @@
+# Free and Open Source Software
+
 Most of my software projects are maintained through my personal GitHub username [tyson-swetnam](https://github.com/tyson-swetnam).
 
-Open Source Software Projects which I've supported or led in the recent past:
+All of these projects are licensed as Open Source. Any other projects which I have built upon retain their original open licenses.
 
 <figure markdown> 
     ![java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png){ width="100" }
