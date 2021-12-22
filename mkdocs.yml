@@ -94,13 +94,16 @@ nav:
   - Home: index.md
   - Research: 
     - Current: current_projects.md
-    - Previous: previous_projects.md
-    - Awards: awards.md
-    - Employment Opportunities: jobs.md
+    - Prior: previous_projects.md
+    - Grants & Awards: awards.md
+    - Job Announcements: jobs.md
   - Curriculum Vitae: 
     - Download: cv.md
-    - Pubication List: publications.md
+    - Publications: publications.md
   - Talks: talks.md
-  - Teaching: teaching.md
+  - Teaching: 
+    - Classes taught: teaching.md
+    - Advising: advising.md
+    - Mentoring: mentoring.md
   - Public Data Sets: data.md
   - Code: code.md
