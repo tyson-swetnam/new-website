@@ -1,10 +1,18 @@
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181) [https://orcid.org/0000-0002-6639-7181](https://orcid.org/0000-0002-6639-7181)
-
-# T.L. Swetnam, Ph.D.
+# T.L. Swetnam, Ph.D. <figure markdown><a href="http://orcid.org/0000-0002-6639-7181" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="30" } </a></figure>
 
 ## About Me
 
 * Research Assistant Professor of Geoinformatics at the University of Arizona [BIO5 Institute](https://bio5.org). 
+
+<figure markdown> 
+  <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="300" }
+  </a>
+</figure>
+
+   * Joint faculty appointment in [School of Natural Resources and Environment](https://snre.arizona.edu)
+    
+   * Member of [Data Science Institute](https://datascience.arizona.edu/)
+
 * Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with a diverse group of data science oriented projects in the life and earth sciences.
 
 <figure markdown> 
