@@ -25,6 +25,6 @@ I help to teach workshops on foundational open science skills, and containers vi
 
 I am also an active member of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
 
-:oticons-location-16: Land Acknowledgement
+!!! **Land Acknowledgement**
 
-We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O’odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
+    We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O’odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
