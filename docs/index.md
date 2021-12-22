@@ -1,11 +1,16 @@
-# T.L. Swetnam, Ph.D. <figure markdown><a href="http://orcid.org/0000-0002-6639-7181" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="30" } </a></figure>
+# T.L. Swetnam, Ph.D. 
+
+<figure markdown>
+  <a href="http://orcid.org/0000-0002-6639-7181" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="50" } </a>
+    <figcaption>ORCID profile</figcaption>
+</figure>
 
 ## About Me
 
 * Research Assistant Professor of Geoinformatics at the University of Arizona [BIO5 Institute](https://bio5.org). 
 
 <figure markdown> 
-  <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="300" }
+  <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="250" }
   </a>
 </figure>
 
@@ -17,13 +22,13 @@
 
 <figure markdown> 
   <a href="http://cyverse.org/" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }
-    <figcaption>a public research cyberinfrastructure for science</figcaption>
+    <figcaption>public research cyberinfrastructure for science</figcaption>
   </a>
 </figure>
 
 ### [Research](./current_projects/)
 
-My personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices (for reproducible research), as well as metadata and ontology (information science).
+My personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices for reproducible research, as well as metadata and ontology in information science.
 
 ### [Teaching](./teaching/)
 
