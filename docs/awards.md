@@ -29,6 +29,13 @@
 | $ 1,000 | President's Award: Best Graduate Exhibit | Graduate and Professional Student Council | 2009-05-15 | | | Awardee |
 | $ 81,000 | Reference Conditions for Fire Regime Condition Class | National Interagency Fuels Team | 2004-08-31 | 2006-08-31 |  | Co-Principal Investigator | 
 
+## Equipment Awards
+
+| Amount | Name | Agency | Start Date | Info | Role |
+|--------|------|--------|------------|------|------|
+| $78,000 | Multi-Instance Learning and GPU Resources Online (MILaGRO) | TRIF | 2022-01-01 | | Principal Investigator |
+| $53,000 | Cyberinfrastructure for Environmental Research & Education in Unoccupied Systems (CEREUS) | TRIF WEES | 2019-07-01 | | Principal Investigator |
+
 ## Computational Resource Awards
 
 Awards are given in core hours (allocation units) and financial equivalent at that time.
