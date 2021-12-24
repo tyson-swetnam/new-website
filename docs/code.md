@@ -5,19 +5,6 @@ Most of my software projects are maintained through my personal GitHub username 
 All of these projects are licensed as Open Source. Any other projects which I have built upon retain their original open licenses.
 
 <figure markdown> 
-    ![java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png){ width="100" }
-    <figcaption>Java Based Projects</figcaption>
-</figure>
-
-### [Calliope](https://cyverse-gis.github.io/calliope/) 
-
-Created by my graduate student [David Slovikosky](https://github.com/DavidM1A2) 
-
-sUAS drone data indexing and management in CyVerse
-
-**Note: Project currently suspended and is pending new support**
-
-<figure markdown> 
     ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){ width="100" }
     <figcaption>Python Based Projects</figcaption>
 </figure>
@@ -61,3 +48,17 @@ Through CyVerse, I help to manage and maintain featured Docker containers in our
 ### RStudio
 
 ### Xpra Remote Desktops
+
+
+<figure markdown> 
+    ![java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png){ width="100" }
+    <figcaption>Java Based Projects</figcaption>
+</figure>
+
+### [Calliope](https://cyverse-gis.github.io/calliope/) 
+
+Created by my graduate student [David Slovikosky](https://github.com/DavidM1A2) 
+
+sUAS drone data indexing and management in CyVerse
+
+**Note: Project currently suspended and is pending new support**
