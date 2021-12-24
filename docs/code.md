@@ -1,4 +1,4 @@
-# Free and Open Source Software
+:osi: 🔓 🆓 :awesome:
 
 Most of my software projects are maintained through my personal GitHub username [tyson-swetnam](https://github.com/tyson-swetnam).
 
