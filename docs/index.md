@@ -33,12 +33,15 @@ My personal research interests include applied use of cyberinfrastructure for ge
 
 ### [Teaching](./teaching/)
 
-As a research professor, I am not required to teach credit courses at the University.
+<figure markdown>
+  <a href="https://learning.cyverse.org" rel="foss">![foss](../assets/2020-02-foss.png){ width="500" } </a>
+    <figcaption>Spring 2020 Foundational Open Science Skills Cohort</figcaption>
+</figure>
 
-I help to teach workshops on foundational open science skills, and containers via the [CyVerse Learning Institute](https://learning.cyverse.org) 
+As a research professor, I am not required to teach credit courses at the University. I mainly teach workshops on foundational open science skills, and containers via the [CyVerse Learning Institute](https://learning.cyverse.org) 
 
 I am also an active member of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
 
-!!! "Land Acknowledgement"
+!!! location "Land Acknowledgement"
 
     We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O’odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
