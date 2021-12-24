@@ -34,7 +34,7 @@ My personal research interests include applied use of cyberinfrastructure for ge
 ### [Teaching](./teaching/)
 
 <figure markdown>
-  <a href="https://learning.cyverse.org" rel="foss">![foss](../assets/2020-02-foss.png){ width="500" } </a>
+  <a href="https://learning.cyverse.org" rel="foss">![foss](https://github.com/tyson-swetnam/home/raw/main/assets/2020-02-foss.png){ width="500" } </a>
     <figcaption>Spring 2020 Foundational Open Science Skills Cohort</figcaption>
 </figure>
 
