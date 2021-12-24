@@ -11,6 +11,7 @@
 | $ 499,927 | Analytical processes and pipelines for unmanned aerial systems in crop sciences | [USDA NIFA FACT](https://portal.nifa.usda.gov/web/crisprojectpages/1019752-facts-a-scalable-cyber-ecosystem-for-acquisition-curation-and-analysis-of-multispectral-uav-image-data.html) | 2020-09-01 | 2022-08-01 | | Senior Personnel |
 | $ 199,859 | TRIPODS+X:VIS: Data science pathways for a vibrant TRIPODS | [![NSF-1839307](https://img.shields.io/badge/NSF-1839307-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1839307) | 2019-01-01 | 2022-10-01 | [website](https://lemon-labs.github.io/) | Senior Personnel |
 | $ 497,481 | High Intensity Phenotyping Sites: A multi-scale, multi-modal sensing and sense-making cyber-ecosystem for genomes to fields | USDA ARS | 2020-05-01 | 2023-05-01 | | Senior Personnel |
+| $ | Assessing the Climate Change Mitigation Potential of Diverse Vegetation Types in the Pinaleño Mountains, Arizona | TRIF-WEES | 2022-01-01 | | | Co-Principal Investigator |
 
 
 ## Financial Awards and Completed Grants
