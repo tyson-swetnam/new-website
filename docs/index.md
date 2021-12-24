@@ -18,7 +18,7 @@
 
 <figure markdown> 
   <a href="http://cyverse.org/" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }
-    <figcaption>public research cyberinfrastructure for science</figcaption>
+    <figcaption>public cyberinfrastructure for science</figcaption>
   </a>
 </figure>
 
