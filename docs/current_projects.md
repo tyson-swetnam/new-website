@@ -43,3 +43,7 @@ I am co-PI on the High Intensity Phenotyping at Scale (HIPS) project with Eric L
 ### NIFA FACT
 
 I am senior personnel on 
+
+## TRIF-WEES
+
+Assessing the Climate Change Mitigation Potential of Diverse Vegetation Types in the Pinaleño Mountains, Arizona
