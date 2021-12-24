@@ -42,8 +42,8 @@ I am co-PI on the High Intensity Phenotyping at Scale (HIPS) project with Eric L
 
 ### NIFA FACT
 
-I am senior personnel on 
+I am senior personnel on Analytical processes and pipelines for unmanned aerial systems in crop sciences with Iowa State University
 
-## TRIF-WEES
+### TRIF-WEES
 
 Assessing the Climate Change Mitigation Potential of Diverse Vegetation Types in the Pinaleño Mountains, Arizona
