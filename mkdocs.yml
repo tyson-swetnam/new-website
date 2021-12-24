@@ -41,15 +41,21 @@ theme:
   icon:
     logo: logo
     admonition:
-      location: octicons/location-16
+      location: fontawesome/icons/map-pin
 
 # Options
 extra:
   social:
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-6639-7181
     - icon: fontawesome/brands/github
       link: https://github.com/tyson-swetnam/
     - icon: fontawesome/brands/twitter
-      link: https://twitter/tswetnam  
+      link: https://twitter/tswetnam
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tyson-swetnam
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/tswetnam
 
 # Extensions
 markdown_extensions:
