@@ -1,6 +1,6 @@
 I have served as Principal Investigator (PI) and co-Principal Investigator (co-PI) on over a dozen funded projects in the last 15 years.
 
-I am currently listed as co-PI on three US National Science Foundation (NSF) projects, senior personnel on two NSF projects; co-PI and senior personnel on two USDA ARS supported projects, respectively. 
+I am currently listed as co-PI on three US National Science Foundation (NSF) projects, senior personnel on two NSF projects; co-PI and senior personnel on two USDA Agricultural Research Service supported projects. 
 
 ## Current projects led
 
