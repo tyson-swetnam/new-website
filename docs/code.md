@@ -1,8 +1,6 @@
 Most of my software projects are maintained through my personal GitHub username [tyson-swetnam](https://github.com/tyson-swetnam).
 
-All of these projects are licensed as Open Source. Any projects which I have built upon retain their original licenses.
-
-🔓 🆓 :material-open-source-initiative:
+All of these projects are licensed as Open Source 🔓 🆓 :material-open-source-initiative: :fontawesome-brands-creative-commons:. Any projects which I have built upon retain their original licenses.
 
 <figure markdown> 
     ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){ width="100" }
