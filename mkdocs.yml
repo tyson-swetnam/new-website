@@ -104,14 +104,13 @@ nav:
     - Current: current_projects.md
     - Prior: previous_projects.md
     - Grants & Awards: awards.md
-    - Job Announcements: jobs.md
-  - Curriculum Vitae: 
-    - Download: cv.md
     - Publications: publications.md
   - Talks: talks.md
   - Teaching: 
     - Classes taught: teaching.md
     - Advising: advising.md
     - Mentoring: mentoring.md
+  - Job Announcements: jobs.md
   - Public Data Sets: data.md
   - Code: code.md
+  - Curriculum Vitae: cv.md
