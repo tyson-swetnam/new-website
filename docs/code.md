@@ -1,8 +1,8 @@
-🔓 🆓 :material-open-source-initiative: :material-account-circle:
-
 Most of my software projects are maintained through my personal GitHub username [tyson-swetnam](https://github.com/tyson-swetnam).
 
-All of these projects are licensed as Open Source. Any other projects which I have built upon retain their original open licenses.
+All of these projects are licensed as Open Source. Any projects which I have built upon retain their original licenses.
+
+🔓 🆓 :material-open-source-initiative:
 
 <figure markdown> 
     ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){ width="100" }
