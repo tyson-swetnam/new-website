@@ -24,6 +24,11 @@
 
 ### [Research](./current_projects/)
 
+<figure markdown>
+  <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1797" target="blank" rel="carbon">![carbon](https://promethean-gift.github.io/assets/mcn_rna.jpg){ width="600" } </a>
+    <figcaption>Mountain topographic control over carbon pools (Swetnam et al. 2017)</figcaption>
+</figure>
+
 My personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices for reproducible research, as well as metadata and ontology in information science.
 
 <figure markdown>
