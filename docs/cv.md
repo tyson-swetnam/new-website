@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[Download Latest PDF]()
+[Download Latest PDF](../assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf)
 
 ### Previous work experience
 
