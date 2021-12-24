@@ -41,7 +41,7 @@ theme:
   icon:
     logo: logo
     admonition:
-      location: fontawesome/icons/map-pin
+      location: material/map-marker-radius
 
 # Options
 extra:
