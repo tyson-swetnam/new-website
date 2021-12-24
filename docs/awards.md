@@ -1,7 +1,5 @@
 ## Active Grants
 
-**Total Current: **
-
 | Amount | Name | Agency | Start Date | End Date | Info | Role |
 |--------|------|--------|------------|----------|------|------|
 | $ 15,000,000 | CyVerse: Cyberinfrastructure for the Life Sciences | [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442) | 2018-07-31 | 2023-07-31 | [website](https://cyverse.org) | Co-Principal Investigator |
