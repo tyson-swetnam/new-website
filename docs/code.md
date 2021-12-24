@@ -1,4 +1,4 @@
-🔓 🆓 :open-source-initiative: :material-account-circle:
+🔓 🆓 :material-open-source-initiative: :material-account-circle:
 
 Most of my software projects are maintained through my personal GitHub username [tyson-swetnam](https://github.com/tyson-swetnam).
 
