@@ -1,8 +1,7 @@
+# Current Projects 
+
 I have served as Principal Investigator (PI) and co-Principal Investigator (co-PI) on over a dozen funded projects in the last 15 years.
 
-I am currently listed as co-PI on three US National Science Foundation (NSF) projects, senior personnel on two NSF projects; co-PI and senior personnel on two USDA Agricultural Research Service supported projects. 
-
-## Current projects led
 
 ### [CyVerse](https://cyverse.org)
 
@@ -10,7 +9,7 @@ I am currently listed as co-PI on three US National Science Foundation (NSF) pro
 
 For the last six years, I have worked primarily within CyVerse. First, as a Science Analyst and now as Co-PI and lead of the Science Team. 
 
-### [Geno Pheno Envo](https://genophenoenvo.github.io/)
+### [Geno-Pheno-Envo](https://genophenoenvo.github.io/)
 
 [![NSF-1939945](https://img.shields.io/badge/NSF-1939945-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939945) [![NSF-1940059](https://img.shields.io/badge/NSF-1940059-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940059) [![NSF-1940062](https://img.shields.io/badge/NSF-1940062-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940062) [![NSF-1940330](https://img.shields.io/badge/NSF-1940330-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940330)
 
@@ -36,13 +35,17 @@ I am senior personnel, assisting on a new NSF Convergence Accelerator in Machine
 
 I am senior personnel, assisting on a community conversation about collaboration in data science.
 
-### AG2PI
+### [NIFA Genome2Fields](https://www.genomes2fields.org/home/)
 
-I am co-PI on the High Intensity Phenotyping at Scale (HIPS) project with Eric Lyons
+[![NIFA-1022368](https://img.shields.io/badge/NIFA-1022368-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/1022368-high-intensity-phenotyping-sitesa-multi-scale-multi-modal-sensing-and-sense-making-cyber-ecosystem-for-genomes-to-fields.htm)
 
-### NIFA FACT
+I am senior personnel on [Genome 2 Fields: High Intensity Phenotyping at Scale (HIPS)](https://www.genomes2fields.org/funded-projects/#high-intensity-phenotyping-sites) project with Dr. Eric Lyons at UArizona, in collaboration with Iowa State University.
 
-I am senior personnel on Analytical processes and pipelines for unmanned aerial systems in crop sciences with Iowa State University
+### NIFA FACTS & [AIIRA](https://aiira.iastate.edu/) 
+
+[![NIFA-1019752](https://img.shields.io/badge/NIFA-1019752-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/1019752-facts-a-scalable-cyber-ecosystem-for-acquisition-curation-and-analysis-of-multispectral-uav-image-data.html) [![NIFA-1027030](https://img.shields.io/badge/NIFA-1027030-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/1027030-ai-institute-aiira-ai-institute-for-resilient-agriculture.html)
+
+Also with Iowa State University, I am senior personnel on FACTS: a scalable cyber ecosystem for acquisition, curation, and analysis of multispectral UAV image data. Both NIFA G2F and FACTS projects link with CyVerse to help develop an [AI Institute for Agricultural Resilience (AIIRA)](https://aiira.iastate.edu/) at Iowa State University. 
 
 ### TRIF-WEES
 
