@@ -14,10 +14,10 @@
     
    * [Data Science Institute](https://datascience.arizona.edu/) member
 
-* Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with a diverse group of data science oriented projects in the life and earth sciences.
+* Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with diverse groups of data scientists in life and earth sciences.
 
 <figure markdown> 
-  <a href="http://cyverse.org/" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }
+  <a href="http://cyverse.org/" target="blank" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }
     <figcaption>public cyberinfrastructure for science</figcaption>
   </a>
 </figure>
@@ -32,20 +32,20 @@
 My personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices for reproducible research, as well as metadata and ontology in information science.
 
 <figure markdown>
-  <a href="http://orcid.org/0000-0002-6639-7181" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="50" } </a>
+  <a href="http://orcid.org/0000-0002-6639-7181" target="blank" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="50" } </a>
     <figcaption>ORCID profile</figcaption>
 </figure>
 
 ### [Teaching](./teaching/)
 
 <figure markdown>
-  <a href="https://learning.cyverse.org" rel="foss">![foss](https://github.com/tyson-swetnam/home/raw/main/assets/2020-02-foss.png){ width="500" } </a>
+  <a href="https://learning.cyverse.org" target="blank" rel="foss">![foss](https://github.com/tyson-swetnam/home/raw/main/assets/2020-02-foss.png){ width="500" } </a>
     <figcaption>Spring 2020 Foundational Open Science Skills Cohort</figcaption>
 </figure>
 
-As a research professor, I am not required to teach credit courses at the University. I mainly teach workshops on foundational open science skills, and containers via the [CyVerse Learning Institute](https://learning.cyverse.org) 
+As a research professor, I am not required to teach credit courses at the University. Currently, I help teach workshops on foundations of open science and digital literacy via the [CyVerse Learning Institute](https://learning.cyverse.org). 
 
-I am also an active member of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
+I am a member of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
 
 !!! location "Land Acknowledgement"
 
