@@ -32,9 +32,11 @@
 My personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices for reproducible research, as well as metadata and ontology in information science.
 
 <figure markdown>
-  <a href="http://orcid.org/0000-0002-6639-7181" target="blank" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="50" } </a>
+  <a href="http://orcid.org/0000-0002-6639-7181" target="blank" rel="orcid">![orcid](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg){ width="50" align="left" } </a>
     <figcaption>ORCID profile</figcaption>
-  <a href="https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en" rel="Google Scholar Profile">![scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg){ width="50" }
+  </figure>
+  <figure markdown>
+  <a href="https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en" rel="Google Scholar Profile">![scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg){ width="50" align="right"}
     <figcaption>Google Scholar Profile</figcaption>
   </a>
 </figure>
