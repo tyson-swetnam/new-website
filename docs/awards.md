@@ -19,8 +19,7 @@
 | $19,500 | Jemez River Corridor Forest Inventory | Nature Conservancy | 2019-07-30 | 2020-12-30 | [website](https://promethean-gift.github.io) | Principal Investigator |
 | $118,978 | BLM CESU Lower Gila River Vegetation Mapping | BLM | 2016-07-07 | 2020-03-26 | | Senior Personnel |
 | $10,000 | Remote Sensing Support and Consultation for Evaluation of Wolf Habitat Suitability in Mexico and Southwestern United States | Arizona Game & Fish Department | 2016-08-01 | 2017-08-01 | | Principal Investigator|
-| $449,025 | LTAR-NEON Collaboration to Quantify Rangeland Vegetation Production | 
-[![NIFA-0429391](https://img.shields.io/badge/NIFA-0429391-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/0429391-ltar-neon-collaboration-to-quantify-rangeland-vegetation-production.html) | 2015-01-01 | 2020-12-31 | | Senior Personnel | 
+| $449,025 | LTAR-NEON Collaboration to Quantify Rangeland Vegetation Production | [![NIFA-0429391](https://img.shields.io/badge/NIFA-0429391-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/0429391-ltar-neon-collaboration-to-quantify-rangeland-vegetation-production.html) | 2015-01-01 | 2020-12-31 | | Senior Personnel | 
 | $17,186 | Pima County Regional Flood Control District | Sediment Transport Analysis and Assessment of Vegetation Characteristics in the Santa Cruz River | 2012-09-01 | 2013-09-01 | | Co-Principal Investigator |
 | $2,500 | Analysis of aerial lidar in the Santa Cruz River and Cienega Creek | Pima County Ecological Monitoring Program |
 | $500 | Kel M. Fox Award for Outstanding Graduate in Watershed Management | School of Natural Resources and Environment | 2012-09-01 | 2012-09-01 | | Awardee |
