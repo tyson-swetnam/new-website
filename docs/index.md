@@ -10,9 +10,9 @@
   </a>
 </figure>
 
-   * Joint faculty in [School of Natural Resources and Environment](https://snre.arizona.edu)
+      Joint faculty in the [School of Natural Resources and Environment](https://snre.arizona.edu)
     
-   * [Data Science Institute](https://datascience.arizona.edu/) member
+      Member of the [Data Science Institute](https://datascience.arizona.edu/)
 
 * Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with diverse groups of data scientists in life and earth sciences.
 
