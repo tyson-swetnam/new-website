@@ -2,6 +2,12 @@
 
 [Download Latest PDF](https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf)
 
+<object data="https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### Foundational experiences
 
 My first career was as a wildland firefighter. I worked for the US DOI National Park Service as a forestry technician for Saguaro National Park from 2002-2005. 
