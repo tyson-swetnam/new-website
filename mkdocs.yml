@@ -56,7 +56,10 @@ extra:
       link: https://www.linkedin.com/in/tyson-swetnam
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/u/tswetnam
-
+  analytics:
+    provider: google
+    property: G-NYETZFD8DN
+  
 # Extensions
 markdown_extensions:
   - admonition
