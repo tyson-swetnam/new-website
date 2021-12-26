@@ -108,8 +108,7 @@ nav:
   - Talks: talks.md
   - Teaching: 
     - Classes taught: teaching.md
-    - Advising: advising.md
-    - Mentoring: mentoring.md
+    - Advising & Mentoring: mentoring.md
   - Job Announcements: jobs.md
   - Public Data Sets: data.md
   - Code: code.md
