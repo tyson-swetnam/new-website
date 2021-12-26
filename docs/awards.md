@@ -22,8 +22,6 @@
 | $449,025 | LTAR-NEON Collaboration to Quantify Rangeland Vegetation Production | [![NIFA-0429391](https://img.shields.io/badge/NIFA-0429391-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/0429391-ltar-neon-collaboration-to-quantify-rangeland-vegetation-production.html) | 2015-01-01 | 2020-12-31 | | Senior Personnel | 
 | $17,186 | Pima County Regional Flood Control District | Sediment Transport Analysis and Assessment of Vegetation Characteristics in the Santa Cruz River | 2012-09-01 | 2013-09-01 | | Co-Principal Investigator |
 | $2,500 | Analysis of aerial lidar in the Santa Cruz River and Cienega Creek | Pima County Ecological Monitoring Program |
-| $500 | Kel M. Fox Award for Outstanding Graduate in Watershed Management | School of Natural Resources and Environment | 2012-09-01 | 2012-09-01 | | Awardee |
-| $1,000 | President's Award: Best Graduate Exhibit | Graduate and Professional Student Council | 2009-05-15 | | | Awardee |
 | $81,000 | Reference Conditions for Fire Regime Condition Class | National Interagency Fuels Team | 2004-08-31 | 2006-08-31 |  | Co-Principal Investigator | 
 
 ## Equipment Awards
@@ -59,4 +57,6 @@ Awards are given in core hours (allocation units) and financial equivalent at th
 | Name | Agency | Date | 
 |------|--------|------|
 | Scholary Achievement Award | School of Natural Resources and Environment | 2014-05 |
+| Kel M. Fox Award for Outstanding Graduate in Watershed Management | School of Natural Resources and Environment | 2012-09 |
+| President's Award: Best Graduate Exhibit | Graduate and Professional Student Council | 2009-05 |
 | Graduate Teaching Assistant of the Year | School of Natural Resources and Environment | 2009-05 | 
