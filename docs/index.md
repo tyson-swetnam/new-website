@@ -1,6 +1,6 @@
 # T.L. Swetnam, Ph.D. 
 
-:material-satellite-variant: :material-map-clock: :material-map-marker: :material-weather-snowy-rain: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna:
+:material-satellite-variant: :material-map-clock: :material-map-marker: :material-weather-snowy-rainy: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna:
 
 ## About Me 
 
