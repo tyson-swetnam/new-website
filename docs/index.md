@@ -46,10 +46,10 @@ My team at CyVerse supports a broad community of life scientists, earth scientis
 
 As a research professor, I am not required to teach credit courses at the University. Currently, we teach workshops on foundations of open science and digital literacy via the Learning Center.
 
-My team and I are members of [The Carpentries](https://carpentries.org), [Research Bazaar Arizona](https://researchbazaar.arizona.edu/).
+My team and I are members of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/).
 
 <figure markdown>
-  <a href="https://carpentries.org/" target="blank" rel="carpentries">![carpentries](https://carpentries.org/assets/img/TheCarpentries.svg){ width="150" align="left" } </a>  <a href="https://researchbazaar.arizona.edu/" rel="resbazaz">![resbazaz](https://resbaz.github.io/resbaz2021/img/resbaz_logos/ResBaz_transparent_cropped.png){ width="150" align="right"}
+  <a href="https://carpentries.org/" target="blank" rel="carpentries">![carpentries](https://carpentries.org/assets/img/TheCarpentries.svg){ height="50" align="left" } </a>  <a href="https://researchbazaar.arizona.edu/" rel="resbazaz">![resbazaz](https://resbaz.github.io/resbaz2021/img/resbaz_logos/ResBaz_transparent_cropped.png){ height="50" align="right"}
   </a>
 </figure>
 
