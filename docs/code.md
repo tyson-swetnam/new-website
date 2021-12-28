@@ -49,7 +49,7 @@ Built atop the [Project Jupyter Docker Stacks](https://jupyter-docker-stacks.rea
 
 Built atop the [Rocker Project RStudio Docker](https://www.rocker-project.org/), with a reverse proxy for working in the CyVerse Discovery Environment.
 
-### [Xpra Remote Desktops](https://github.com/cyverse-vice/xpra) <a href="https://de.cyverse.org/apps/de/f3f8cc78-23d5-11ec-abcf-008cfa5ae621/launch?saved-launch-id=755e40db-e623-4756-bd2a-d1c0ebffe97a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XPRA-latest-green?style=plastic&logo=docker"></a>
+### [Xpra Remote Desktops](https://github.com/cyverse-vice/xpra) <a href="https://de.cyverse.org/apps/de/f3f8cc78-23d5-11ec-abcf-008cfa5ae621/launch?saved-launch-id=755e40db-e623-4756-bd2a-d1c0ebffe97a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xpra-latest-green?style=plastic&logo=nvidia"></a>
 
 Built with Ubuntu and NVIDIA base drivers for remote GPU acceleration of large data sets, i.e. point clouds. 
 
