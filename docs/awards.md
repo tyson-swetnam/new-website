@@ -20,8 +20,9 @@
 | $118,978 | BLM CESU Lower Gila River Vegetation Mapping | BLM | 2016-07-07 | 2020-03-26 | | Senior Personnel |
 | $10,000 | Remote Sensing Support and Consultation for Evaluation of Wolf Habitat Suitability in Mexico and Southwestern United States | Arizona Game & Fish Department | 2016-08-01 | 2017-08-01 | | Principal Investigator|
 | $449,025 | LTAR-NEON Collaboration to Quantify Rangeland Vegetation Production | [![NIFA-0429391](https://img.shields.io/badge/NIFA-0429391-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/0429391-ltar-neon-collaboration-to-quantify-rangeland-vegetation-production.html) | 2015-01-01 | 2020-12-31 | | Senior Personnel | 
-| $17,186 | Pima County Regional Flood Control District | Sediment Transport Analysis and Assessment of Vegetation Characteristics in the Santa Cruz River | 2012-09-01 | 2013-09-01 | | Co-Principal Investigator |
-| $2,500 | Analysis of aerial lidar in the Santa Cruz River and Cienega Creek | Pima County Ecological Monitoring Program |
+| $17,186 | Sediment Transport Analysis and Assessment of Vegetation Characteristics in the Santa Cruz River | Pima County Regional Flood Control District | 2012-09-01 | 2013-09-01 | [final report](https://webcms.pima.gov/UserFiles/Servers/Server_6/File/Government/Flood%20Control/Engineering/Planning/Lower%20Santa%20Cruz%20River%20Living%20River%20Project/Riparian_vegetation_characterization_of_the_Lower_Santa_Cruz_Swetnam_etal_2013.pdf) | Co-Principal Investigator |
+| $ | Multi-scale controls on Wildland fire in mountains of Western North America | [![NIFA-0216422](https://img.shields.io/badge/NIFA-0216422-green.svg)](https://reeis.usda.gov/web/crisprojectpages/0216422-multi-scale-controls-on-wildland-fire-in-mountains-of-western-north-america.html) | 2008-07-01 | 2012-12-31 | | Senior Personnel |
+| $2,500 | Analysis of aerial lidar in the Santa Cruz River and Cienega Creek | Pima County Ecological Monitoring Program | 2013-01-01 | 2013-09-30 | [white paper](http://www.pima.gov/cmo/sdcp/monitoring/PDF/Supplement_D_Examing_Use_of_LiDAR_For_Monitoring_Vegetation.pdf) | Principal Investigator |
 | $81,000 | Reference Conditions for Fire Regime Condition Class | National Interagency Fuels Team | 2004-08-31 | 2006-08-31 |  | Co-Principal Investigator | 
 
 ## Equipment Awards
