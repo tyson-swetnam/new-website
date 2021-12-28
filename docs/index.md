@@ -11,8 +11,6 @@
 </figure>
 
    * Joint faculty in the [School of Natural Resources and Environment](https://snre.arizona.edu)
-    
-   * Member of the [Data Science Institute](https://datascience.arizona.edu/)
 
 * Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with diverse groups of data scientists in life and earth sciences.
 
@@ -26,10 +24,10 @@
 
 <figure markdown>
   <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1797" target="blank" rel="carbon">![carbon](https://promethean-gift.github.io/assets/mcn_rna.jpg){ width="600" } </a>
-    <figcaption>Mountain topographic control over carbon pools (Swetnam et al. 2017)</figcaption>
+    <figcaption>Mountain topographic control over forest carbon reservoirs (Swetnam et al. 2017)</figcaption>
 </figure>
 
-My personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices for reproducible research, as well 
+Personal research interests include applied use of cyberinfrastructure for geospatial analysis, data science best practices for reproducible research, as well 
 as metadata and ontology in information science.
 
 <figure markdown>
@@ -37,16 +35,25 @@ as metadata and ontology in information science.
   </a>
 </figure>
 
-### [Teaching](./teaching/)
+### [Education, Outreach, & Training](./teaching/)
+
+My team at CyVerse supports a broad community of life scientists, earth scientists, astronomers, and social scientists through our [Learning Center](https://learning.cyverse.org), and [External Collaborative Partnerships](https://cyverse.org/ecp).
 
 <figure markdown>
   <a href="https://learning.cyverse.org" target="blank" rel="foss">![foss](https://github.com/tyson-swetnam/home/raw/main/assets/2020-02-foss.png){ width="500" } </a>
     <figcaption>Spring 2020 Foundational Open Science Skills Cohort</figcaption>
 </figure>
 
-As a research professor, I am not required to teach credit courses at the University. Currently, I help teach workshops on foundations of open science and digital literacy via the [CyVerse Learning Institute](https://learning.cyverse.org). 
+As a research professor, I am not required to teach credit courses at the University. Currently, we teach workshops on foundations of open science and digital literacy via the Learning Center.
 
-I am a member of [The Carpentries](https://carpentries.org) and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
+My team and I are members of [The Carpentries](https://carpentries.org), [Research Bazaar Arizona](https://researchbazaar.arizona.edu/).
+
+<figure markdown>
+  <a href="https://carpentries.org/" target="blank" rel="carpentries">![carpentries](https://carpentries.org/assets/img/TheCarpentries.svg){ width="150" align="left" } </a>  <a href="https://researchbazaar.arizona.edu/" rel="resbazaz">![resbazaz](https://resbaz.github.io/resbaz2021/img/resbaz_logos/ResBaz_transparent_cropped.png){ width="150" align="right"}
+  </a>
+</figure>
+
+We collaborate with The University of Arizona's [Data Science Institute](https://datascience.arizona.edu/) and their [Fellows propgram](https://datascience.arizona.edu/odss-office-data-science-services/data-science-fellows-program).
 
 !!! location "Land Acknowledgement"
 
