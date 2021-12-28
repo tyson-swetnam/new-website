@@ -1,9 +1,7 @@
 # Curriculum Vitae
 
 [Download Latest PDF](https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf)
-
-<embed src="https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf" type="application/pdf">
-       
+      
 ### Foundational experiences
 
 In my first career I worked as a seasonal wildland firefighter. I worked for the US Department of Interior's National Park Service as a forestry technician for Saguaro National Park from 2002-2005. 
