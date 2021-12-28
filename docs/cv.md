@@ -6,9 +6,12 @@
        
 ### Foundational experiences
 
-My first career was as a wildland firefighter. I worked for the US DOI National Park Service as a forestry technician for Saguaro National Park from 2002-2005. 
-Later, during my Ph.D. program, I worked as a Fire Management Specialist for the USDA Forest Service Coronado National Forest Supervisor's Office from 2008-2012.
+In my first career I worked as a seasonal wildland firefighter. I worked for the US Department of Interior's National Park Service as a forestry technician for Saguaro National Park from 2002-2005. 
 
-My graduate research focused on the applications of [dendrochronology](https://ltrr.arizona.edu) and dendroecology, Geographic Information Systems (GIS), and Remote Sensing for Watershed Management. I used those data to analyze disturbance regimes and carbon in western forested ecosystems. 
+During my Ph.D. program I worked as a Fire Management Specialist for the US Department of Agriculture's Forest Service in the Coronado National Forest Supervisor's Office from 2008-2012.
 
-That experience working on new sensor and data types led me into my career in data science and geoinformatics.
+My graduate research focused on the applications of [dendrochronology](https://ltrr.arizona.edu), [restoration ecology](https://nature.arizona.edu/donald-falk), Geographic Information Systems (GIS) and remote sensing, in [watershed management and ecohydrology](https://nature.arizona.edu/graduate/watershed-management-ecohydrology). 
+
+I used those data to analyze [disturbance regimes and carbon in western forested ecosystems](https://www.fs.usda.gov/treesearch/pubs/48047). 
+
+That experience working on new sensor and data types led to my career in data science and geoinformatics.
