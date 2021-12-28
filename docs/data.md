@@ -1,4 +1,4 @@
-For the last few years, I've tried to publish all of my derived data products as supplemental materials, and with DataCite DOI through the [CyVerse Data Commons](https://datacommons.cyverse.org)
+For the last few years I've tried to publish derived data products as supplemental materials with DataCite DOI through the [CyVerse Data Commons](https://datacommons.cyverse.org).
 
 ## Published Supplemental Materials
 
