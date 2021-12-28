@@ -41,21 +41,15 @@ See the [CyVerse-VICE GitHub Organization](https://github.com/cyverse-vice/) for
 
 Through CyVerse, I help to manage and maintain featured Docker containers in our Discovery Environment data science workbench. I also maintain my own containers here in my personal GitHub space.
 
-### [JupyterLab](https://github.com/cyverse-vice/jupyterlab-datascience)
-
-<a href="https://de.cyverse.org/apps/de/cc77b788-bc45-11eb-9934-008cfa5ae621/launch?saved-launch-id=4ab1f690-f360-4bba-bef9-d22f9f7b82f9" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Datascience-latest-orange?style=plastic&logo=jupyter"></a> 
+### [JupyterLab](https://github.com/cyverse-vice/jupyterlab-datascience) <a href="https://de.cyverse.org/apps/de/cc77b788-bc45-11eb-9934-008cfa5ae621/launch?saved-launch-id=4ab1f690-f360-4bba-bef9-d22f9f7b82f9" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Datascience-latest-orange?style=plastic&logo=jupyter"></a> 
 
 Built atop the [Project Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/) for Data Science Notebooks with geospatial conda packages
 
-### [RStudio](https://github.com/cyverse-vice/rstudio-geospatial)
-
-<a href="https://de.cyverse.org/apps/de/07e2b2e6-becd-11e9-b524-008cfa5ae621/launch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Geospatial-latest-blue?style=plastic&logo=rstudio"></a>
+### [RStudio](https://github.com/cyverse-vice/rstudio-geospatial) <a href="https://de.cyverse.org/apps/de/07e2b2e6-becd-11e9-b524-008cfa5ae621/launch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Geospatial-latest-blue?style=plastic&logo=rstudio"></a>
 
 Built atop the [Rocker Project RStudio Docker](https://www.rocker-project.org/), with a reverse proxy for working in the CyVerse Discovery Environment.
 
-### [Xpra Remote Desktops](https://github.com/cyverse-vice/xpra)
-
-<a href="https://de.cyverse.org/apps/de/f3f8cc78-23d5-11ec-abcf-008cfa5ae621/launch?saved-launch-id=755e40db-e623-4756-bd2a-d1c0ebffe97a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XPRA-latest-green?style=plastic&logo=docker"></a>
+### [Xpra Remote Desktops](https://github.com/cyverse-vice/xpra) <a href="https://de.cyverse.org/apps/de/f3f8cc78-23d5-11ec-abcf-008cfa5ae621/launch?saved-launch-id=755e40db-e623-4756-bd2a-d1c0ebffe97a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XPRA-latest-green?style=plastic&logo=docker"></a>
 
 Built with Ubuntu and NVIDIA base drivers for remote GPU acceleration of large data sets, i.e. point clouds. 
 
