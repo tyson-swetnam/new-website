@@ -1,7 +1,7 @@
 # T.L. Swetnam, Ph.D. 
 
 
-## About Me
+## About Me :material-satellite-variant: :material-map-clock: :material-map-marker: :material-weather-snowy-rain: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna:
 
 * Research Assistant Professor of Geoinformatics at [The University of Arizona](https://www.bio5.org/people/tyson-l-swetnam) 
 
