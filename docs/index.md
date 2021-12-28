@@ -38,7 +38,7 @@ as metadata and ontology in information science.
 
 ### [Education, Outreach, & Training](./teaching/)
 
-My team at CyVerse supports a broad community of life scientists, earth scientists, astronomers, and social scientists through our [Learning Center](https://learning.cyverse.org), and [External Collaborative Partnerships](https://cyverse.org/ecp).
+My team at CyVerse supports a broad community of life scientists, earth scientists, astronomers, and social scientists through our [Learning Center](https://learning.cyverse.org) and [External Collaborative Partnerships](https://cyverse.org/ecp).
 
 <figure markdown>
   <a href="https://learning.cyverse.org" target="blank" rel="foss">![foss](https://github.com/tyson-swetnam/home/raw/main/assets/2020-02-foss.png){ width="500" } </a>
