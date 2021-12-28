@@ -6,7 +6,7 @@ For the last few years I've tried to publish derived data products as supplement
 
 [Gillan et al. 2019](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_et_al_RAMA_2019)
 
-[Swetnam et al. 2021](https://data.cyverse.org/dav-anon/iplant/home/tswetnam/emsi)
+[Swetnam et al. 2021](https://tyson-swetnam.github.io/emsi/)
 
 [Swetnam et al. 2017](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecs2.1797&file=ecs21797-sup-0003-AppendixS3.pdf)
 
