@@ -53,7 +53,7 @@ My team and I are members of [The Carpentries](https://carpentries.org) and [Res
   </a>
 </figure>
 
-We collaborate with The University of Arizona's [Data Science Institute](https://datascience.arizona.edu/) and their [Fellows propgram](https://datascience.arizona.edu/odss-office-data-science-services/data-science-fellows-program).
+We collaborate with The University of Arizona's [Data Science Institute](https://datascience.arizona.edu/) and their [Fellows program](https://datascience.arizona.edu/odss-office-data-science-services/data-science-fellows-program).
 
 !!! location "Land Acknowledgement"
 
