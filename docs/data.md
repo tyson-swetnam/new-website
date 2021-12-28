@@ -22,9 +22,9 @@ For the last few years I've tried to publish derived data products as supplement
 
 🕶️🔥 [Awesome Fire Science](https://github.com/tyson-swetnam/awesome-fire-science) - list of open source tools and data for wildland fire and forest research
 
-# Old Lab Journal
+# Old lab journals and webpages
 
-Before transitioning to GitHub, I used Atlassian Confluence Wikis hosted by CyVerse for several years to organize my lab materials. I keep those archived pages here: [CyVerse Wiki Pages](https://cyverse.atlassian.net/wiki/spaces/~tyson_swetnam/overview)
+Before transitioning to GitHub I used an Atlassian Confluence Wiki hosted by CyVerse for several years to organize my lab materials. Those archived pages are [here](https://cyverse.atlassian.net/wiki/spaces/~tyson_swetnam/overview)
 
 My second professional website is archived [here](https://tyson-swetnam.github.io/old_website)
 
