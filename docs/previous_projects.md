@@ -4,7 +4,7 @@
 
 :material-satellite-variant: :material-airplane: :material-quadcopter: :material-map: :material-map-marker-path: :material-pine-tree-fire: :material-home-group: :material-github: :material-docker: :material-language-python: :material-language-r:
 
-A 2019-2020 study funded by [The Nature Conservancy]() of New Mexico to help homeowners in the Jemez Mountains Wildland Urban Interface address issues related to wildfire and fuels around private property.
+A 2019-2020 study funded by [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/united-states/new-mexico/contact-us/) of New Mexico to help stakeholders in the [Jemez Mountains Firewise Association](https://sites.google.com/view/jmfa-nm/home) address issues related to wildfire and fuels around private property.
 
 ## Mexican Wolf Recovery
 
