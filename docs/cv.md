@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[Download Latest PDF](https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf)
+[Download Latest PDF :fontawesome-solid-file-pdf:](https://github.com/tyson-swetnam/home/raw/main/assets/2021-12-24-CV-Tyson-Lee-Swetnam.pdf)
       
 ### Foundational experiences
 
@@ -10,6 +10,6 @@ During my Ph.D. program I worked as a Fire Management Specialist for the US Depa
 
 My graduate research focused on the applications of [dendrochronology](https://ltrr.arizona.edu), [restoration ecology](https://nature.arizona.edu/donald-falk), Geographic Information Systems (GIS) and remote sensing, in [watershed management and ecohydrology](https://nature.arizona.edu/graduate/watershed-management-ecohydrology). 
 
-I used those data to analyze [disturbance regimes and carbon in western forested ecosystems](https://www.fs.usda.gov/treesearch/pubs/48047). 
+I used those data to analyze [disturbance regimes and carbon in western forested ecosystems](https://www.fs.usda.gov/treesearch/pubs/48047 :fontawesome-solid-file-pdf:). 
 
 That experience working on new sensor and data types led to my career in data science and geoinformatics.
