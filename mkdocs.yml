@@ -41,7 +41,7 @@ theme:
   icon:
     logo: material/pine-tree-fire
     admonition:
-      location: material/map-marker-radius-outline
+      note: material/map-marker-radius-outline
 
 # Options
 extra:
