@@ -4,7 +4,7 @@
       
 ### Foundational experiences
 
-In my first career I worked as a seasonal wildland firefighter. I worked for the US Department of Interior's National Park Service as a forestry technician for Saguaro National Park from 2002-2005. 
+In my first career I worked as a seasonal wildland firefighter for the US Department of Interior's National Park Service as a forestry technician at the Saguaro National Park from 2002-2005. 
 
 During my Ph.D. program I worked as a Fire Management Specialist for the US Department of Agriculture's Forest Service in the Coronado National Forest Supervisor's Office from 2008-2012.
 
