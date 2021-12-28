@@ -40,6 +40,8 @@ I am senior personnel, assisting on a new NSF Convergence Accelerator in Machine
 
 [![NSF-1839307](https://img.shields.io/badge/NSF-1839307-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1839307)
 
+:material-handshake: :material-open-source-initiative: 
+
 I am senior personnel, assisting on a community conversation about collaboration in data science.
 
 ### [NIFA Genome2Fields](https://www.genomes2fields.org/home/)
@@ -47,7 +49,6 @@ I am senior personnel, assisting on a community conversation about collaboration
 [![NIFA-1022368](https://img.shields.io/badge/NIFA-1022368-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/1022368-high-intensity-phenotyping-sitesa-multi-scale-multi-modal-sensing-and-sense-making-cyber-ecosystem-for-genomes-to-fields.htm)
 
 :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r:
-
 
 I am senior personnel on [Genome 2 Fields: High Intensity Phenotyping at Scale (HIPS)](https://www.genomes2fields.org/funded-projects/#high-intensity-phenotyping-sites) project with Dr. Eric Lyons at UArizona, in collaboration with Iowa State University.
 
@@ -60,5 +61,7 @@ I am senior personnel on [Genome 2 Fields: High Intensity Phenotyping at Scale (
 Also with Iowa State University, I am senior personnel on FACTS: a scalable cyber ecosystem for acquisition, curation, and analysis of multispectral UAV image data. Both NIFA G2F and FACTS projects link with CyVerse to help develop an [AI Institute for Agricultural Resilience (AIIRA)](https://aiira.iastate.edu/) at Iowa State University. 
 
 ### TRIF-WEES
+
+:material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest:
 
 Assessing the Climate Change Mitigation Potential of Diverse Vegetation Types in the Pinaleño Mountains, Arizona
