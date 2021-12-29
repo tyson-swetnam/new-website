@@ -9,7 +9,7 @@
 **32. Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community**
 *Published in Ecosphere*
 
-:material-handshake: :material-airplane: :material-tower-fire: :material-file-tree: :material-database: :material-weather-partly-snowy-rainy: :fontawesome-solid-wind: :material-forest: :material-pine-tree-fire: :material-cactus: :material-leaf: :material-grass: :material-bug: :material-dna: :material-graph-outline: :material-language-r: material-language-python: :material-creative-commons: :material-open-source-initiative: 
+:material-handshake: :material-airplane: :material-tower-fire: :material-file-tree: :material-database: :material-weather-partly-snowy-rainy: :fontawesome-solid-wind: :material-forest: :material-pine-tree-fire: :material-cactus: :material-leaf: :material-grass: :material-bug: :material-dna: :material-graph-outline: :material-language-r: :material-language-python: :material-creative-commons: :material-open-source-initiative: 
 
 [10.1002/ecs2.3833](https://doi.org/10.1002/ecs2.3833)
 
@@ -36,7 +36,7 @@ Recommended citation: Wei Guo, Matthew E. Carroll, Arti Singh, Tyson L. Swetnam,
 **29. Ten simple rules to cultivate transdisciplinary collaboration in data science**
 *Published in PLoS Computational Biology*
 
-:material-handshake: :material-numeric:10-circle-outline:
+:material-handshake: :material-numeric-10-circle-outline:
 
 [10.1371/journal.pcbi.1008879](https://doi.org/10.1371/journal.pcbi.1008879)
 
@@ -72,7 +72,7 @@ Recommended citation: Martínez-Meyer, E, González-Bernal, A, Velasco, JA, et a
 **25. Ten simple rules for organizing a data science workshop, 2020**
 *Published in PLoS Computational Biology*
 
-:material-handshake: :material-numeric:10-circle-outline:
+:material-handshake: :material-numeric-10-circle-outline:
 
 [10.1371/journal.pcbi.1008226](https://doi.org/10.1371/journal.pcbi.1008226)
 
@@ -90,7 +90,7 @@ Recommended citation: Gedir, J. V., Cain III, J. W., Swetnam, T. L., Krausman, P
 **23. The Rockerverse: Packages and Applications for Containerisation with R, 2020**
 *Published in The R Journal*
 
-:material-language-r: :material-docker: :material-github: material-creative-commons:
+:material-language-r: :material-docker: :material-github: :material-creative-commons:
 
 [doi.org/10.32614/rj-2020-007](https://doi.org/10.32614/rj-2020-007)
 
@@ -125,6 +125,8 @@ Recommended citation: Norman, L.M.; Callegary, J.B.; Lacher, L.; Wilson, N.R.; F
 
 **19. Jetstream—Early operations performance, adoption, and impacts**
 *Published in Concurrency and Computation: Practice and Experience, 2018*
+
+:material-database: :material-cloud:
 
 [10.1002/cpe.4683](https://doi.org/10.1002/cpe.4683)
 
