@@ -1,7 +1,5 @@
 # T.L. Swetnam, Ph.D. 
 
-:material-satellite-variant: :material-airplane: :material-quadcopter: :material-compass-rose: :material-math-compass: :material-map-clock: :material-map-marker-path: :material-weather-snowy-rainy: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-language-go: :material-language-java: :material-language-c: :material-language-markdown-outline:
-
 ## About Me 
 
 * Research Assistant Professor of Geoinformatics at [The University of Arizona](https://www.bio5.org/people/tyson-l-swetnam) 
@@ -21,7 +19,8 @@
   </a>
 </figure>
 
-### [Research](./current_projects/)
+### [Research](./current_projects/) 
+:material-satellite-variant: :material-airplane: :material-quadcopter: :material-compass-rose: :material-math-compass: :material-map-clock: :material-map-marker-path: :material-weather-snowy-rainy: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-language-go: :material-language-java: :material-language-c: :material-language-markdown-outline:
 
 <figure markdown>
   <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1797" target="blank" rel="carbon">![carbon](https://promethean-gift.github.io/assets/mcn_rna.jpg){ width="600" } </a>
