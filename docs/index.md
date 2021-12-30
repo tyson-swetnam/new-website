@@ -53,6 +53,10 @@ My team and I are members of [The Carpentries](https://carpentries.org) and [Res
 
 We collaborate with The University of Arizona's [Data Science Institute](https://datascience.arizona.edu/) and their [Fellows program](https://datascience.arizona.edu/odss-office-data-science-services/data-science-fellows-program).
 
-!!! "Land Acknowledgement"
+!!! note "Land Acknowledgement"
 
     We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O’odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
+
+### [Data](./data) & [Code](./code)
+
+Search or reuse my published & community released research data sets, or peruse the open source software projects I'm active with.
