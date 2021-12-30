@@ -18,9 +18,11 @@ For the last few years I've tried to publish derived data products as supplement
 
 [Jemez River Fuels Inventory](https://promethean-gift.github.io/resources) - Nature Conservancy Pilot fuels project data
 
-## Awesome Lists [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Lists 
 
-🕶️🔥 [Awesome Fire Science](https://github.com/tyson-swetnam/awesome-fire-science) - list of open source tools and data for wildland fire and forest research
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+🕶️🔥 [Awesome Fire Science](https://github.com/tyson-swetnam/awesome-fire-science) - My personal awesome list of open source tools and data for wildland fire and forest research.
 
 # Old lab journals and webpages
 
