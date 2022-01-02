@@ -1,6 +1,6 @@
-I typically employ student workers in my lab group to support my research and CyVerse cyberinfrastructure. 
+I typically employ graduate and undergraduate students in my lab group to support my personal research and the CyVerse cyberinfrastructure. I employ postdoctoral researchers via my [research awards](./current_projects). 
 
-I advise students on their Master's and Doctoral committees, and employ postdoctoral researchers on my team.
+I advise graduate students on their Master's and Doctoral committees at University of Arizona and at other universities when allowed. 
 
 # Current
 
