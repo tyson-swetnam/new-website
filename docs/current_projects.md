@@ -8,7 +8,7 @@ I have served as Principal Investigator (PI) and co-Principal Investigator (co-P
 
 :material-leaf: :material-dna: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-language-go:
 
-For the last six years, I have worked primarily within CyVerse. First, as a Science Analyst and now as Co-PI and lead of the Science Team. 
+For the last six years I have worked for the CyVerse project. I started as a Science Analyst. I am now Co-PI and lead of the Science Team. 
 
 ### [Geno-Pheno-Envo](https://genophenoenvo.github.io/)
 
