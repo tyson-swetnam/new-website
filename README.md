@@ -4,4 +4,6 @@
 
 [tyson-swetnam.github.io/home/](https://tyson-swetnam.github.io/home/)
 
-[A Material for MkDocs website](https://squidfunk.github.io/mkdocs-material/)
+[MkDocs](https://www.mkdocs.org/)
+
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
