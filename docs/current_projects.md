@@ -16,7 +16,7 @@ For the last six years, I have worked primarily within CyVerse. First, as a Scie
 
 :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r:
 
-I am co-PI on an NSF Harnessing the Data Revolution collaborative research project using Genomics, Phenomics, and Environmental data with machine learning.
+I am co-PI on a NSF Harnessing the Data Revolution collaborative research project using Genomics, Phenomics, and Environmental data with machine learning.
 
 ### [OpenDendro](https://opendendro.github.io/opendendro)
 
@@ -24,7 +24,7 @@ I am co-PI on an NSF Harnessing the Data Revolution collaborative research proje
 
 :material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r:
 
-I am co-PI on an NSF collaborative research project to refactor dendrochronological software written in Fortran, C, and R into Python, and to ensure reproducibility and community engagement.
+I am co-PI on a NSF collaborative research project to refactor dendrochronological software written in Fortran, C, and R into Python, and to ensure reproducibility and community engagement.
 
 ## Current projects assisted
 
