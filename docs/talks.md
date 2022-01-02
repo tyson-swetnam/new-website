@@ -22,6 +22,6 @@ I frequently contribute to CyVerse' virtual Webinars:
 
 ## Fireside Chat with Joe Buck in Nature
 
-[Website](www.joebuckinnature.com)
+[Website](https://www.joebuckinnature.com)
 
 [YouTube Recording](https://www.youtube.com/watch?v=oVgg5YY3eTs&t=2016s)
