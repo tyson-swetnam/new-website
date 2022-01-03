@@ -10,7 +10,7 @@ A 2019-2020 study funded by [The Nature Conservancy](https://www.nature.org/en-u
 
 :material-compass-rose: :material-math-compass: :material-map-clock: :material-map-marker-path: :material-language-r: 
 
-In 2016, in collaboration with the Arizona Game and Fish Department, and the Universidad Nacional Autónoma de México (UNAM) I was involved in the planning and mapping of potential recovery areas for the critically endangeder Mexican Wolf. Our work is published in the [US Fish and Wildlife Service 2017 Species Recovery Plan Draft Report :fontawesome-solid-file-pdf:](https://www.fws.gov/southwest/es/mexicanwolf/pdf/20170622_DftBioReport_Appendices.pdf), and by work by my Mexican colleages at UNAM in 2021. 
+In 2016, in collaboration with the Arizona Game and Fish Department, and the Universidad Nacional Autónoma de México (UNAM) I was involved in the planning and mapping of potential recovery areas for the critically endangered Mexican Wolf. Our work is published in the [US Fish and Wildlife Service 2017 Species Recovery Plan Draft Report :fontawesome-solid-file-pdf:](https://www.fws.gov/southwest/es/mexicanwolf/pdf/20170622_DftBioReport_Appendices.pdf), and by work by my Mexican colleages at UNAM in 2021. 
 
 ## Remote Sensing on the Walnut Gulch & Santa Rita Experimental Range
 
