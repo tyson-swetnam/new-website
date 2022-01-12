@@ -13,7 +13,7 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 # Configuration
 
 theme:
-  name: readthedocs
+  name: 'material'
 
   # 404 page
   static_templates:
