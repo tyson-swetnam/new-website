@@ -14,6 +14,8 @@ In 2016, in collaboration with the Arizona Game and Fish Department, and the Uni
 
 ## Remote Sensing on the Walnut Gulch & Santa Rita Experimental Range
 
+[![NIFA-0429391](https://img.shields.io/badge/NIFA-0429391-green.svg)](https://portal.nifa.usda.gov/web/crisprojectpages/0429391-ltar-neon-collaboration-to-quantify-rangeland-vegetation-production.html)
+
 :material-satellite-variant: :material-airplane: :material-quadcopter: :material-map-clock: :material-weather-partly-rainy: :material-cactus: :material-tree: :material-grass: :material-cow: :material-horse:
 
 After my post-doc, I was supported by a funding agreement between The University of Arizona and the United States Department of Agriculture (USDA) Agricultural Research Service (ARS) Southwest Watershed Research Center (SWRC) to study remote sensing of semi-arid grasslands on the Walnut Gulch Experimental Watershed (WGEW) and the Santa Rita Experimental Range (SRER). Both WGEW and SRER are Long Term Agricultural Research (LTAR) sites, SRER is also a NEON Core Site. 
