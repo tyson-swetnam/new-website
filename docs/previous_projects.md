@@ -30,6 +30,8 @@ My post-doctoral research was supported by the NSF Critical Zone Observatories N
 
 ## US Forest Service Carbon Mapping
 
+[![NIFA-0216422](https://img.shields.io/badge/NIFA-0216422-green.svg)](https://reeis.usda.gov/web/crisprojectpages/0216422-multi-scale-controls-on-wildland-fire-in-mountains-of-western-north-america.html)
+
 :material-satellite-variant: :material-airplane: :material-quadcopter: :material-math-compass: :material-map-clock: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna:
 
 My Ph.D. was supported by the USDA Forest Service as a Student Temporary Employment Program (STEP). This work was documented in my dissertation, and resulted in five peer-reviewed manuscripts and one working paper. 
