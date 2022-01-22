@@ -40,18 +40,16 @@ Awards are given in core hours (allocation units) and financial equivalent at th
 |--------|-------|----------|------|---------|------------|----------|------|------|
 | 33,000 | Node hours | Frontera | Cyberinfrastructure hybrid for scalable machine learning and visualization using genomic and geospatial datasets | MCB20043 | 2020-09-01 | 2021-09-29 | | Principal Investigator |
 | 16,000 | Node hours | Longhorn GPU | Cyberinfrastructure hybrid for scalable machine learning and visualization using genomic and geospatial datasets | MCB20043 | 2020-09-01 | 2021-09-29 | | Principal Investigator |
-| 250,000 | CPU hours | Jetstream |NEON Ecological Forecasting Challenge hosted by the Ecological Forecasting Initiative Research Coordination Network | TG-BIO200064 | 2021-10-01 | 2022-10-31 | [website]() | Co-Principal Investigator |
-| 4,000 | GBs | Jetstream Storage | NEON Ecological Forecasting Challenge hosted by the Ecological Forecasting Initiative Research Coordination Network | TG-BIO200064 | 2019-03-01 | 2022-10-31 | [website]() | Co-Principal Investigator |
-| 1.0 | FTE | ECSS | Modeling the Effective Energy and Mass Transfer input to Earth’s Critical Zone from sub-meter to global spatial scales and daily to millennial time scales | TG-EAR160016 | 2017-01-01 | 2017-13-31 | [website]() | Principal Investigator |
-| 54,000 | CPU hours | Jetstream | Virtualized remote sensing analysis, GIS, and distributed geospatial data processing using a hybrid cloud resource | TG-EAR160036 | | 2019-03-01 | [website]() | Principal Investigator |
-| 500,000 | CPU hours | Jetstream | Virtualized remote sensing analysis, GIS, and distributed geospatial data processing using a hybrid cloud resource | TG-EAR1600367 | 2017-10-13 | 2019-01-13 | [website]() | Principal Investigator |
-| 4,000 | GBs | Jetstream Storage | Virtualized remote sensing analysis, GIS, and distributed geospatial data processing using a hybrid cloud resource | TG-EAR160036 | | 2019-03-01 | [website]() | Principal Investigator |
-| 1,000 | GBs | Ranch | CyVerse Container Camp workshop on Stampede2 HPC | TG-ASC180017 | | 2019-03-01 | [website]() | Co-Principal Investigator |
-| 3,000 | CPU hours | Stampede2 | CyVerse Container Camp workshop on Stampede2 HPC | TG-ASC180017 | | 2019-03-01 | [website]() | Co-Principal Investigator |
-| 20,000 | CPU hours | Jetstream | CyVerse Container Camp workshop on Jetstream Cloud | TG-ASC180016 | | 2019-03-01 | [website]() | Co-Principal Investigator |
-| 1,000 | GBs | Jetstream Storage | CyVerse Container Camp workshop on Jetstream Cloud | TG-ASC180016 | | 2019-03-01 | [website]() | Co-Principal Investigator |
-
-
+| 250,000 | CPU hours | Jetstream |NEON Ecological Forecasting Challenge hosted by the Ecological Forecasting Initiative Research Coordination Network | TG-BIO200064 | 2021-10-01 | 2022-10-31 | [website](https://ecoforecast.org/) | Co-Principal Investigator |
+| 4,000 | GBs | Jetstream Storage | NEON Ecological Forecasting Challenge hosted by the Ecological Forecasting Initiative Research Coordination Network | TG-BIO200064 | 2019-03-01 | 2022-10-31 | [website](https://ecoforecast.org/) | Co-Principal Investigator |
+| 1.0 | FTE | ECSS | Modeling the Effective Energy and Mass Transfer input to Earth’s Critical Zone from sub-meter to global spatial scales and daily to millennial time scales | TG-EAR160016 | 2017-01-01 | 2017-13-31 | [publication](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1797) | Principal Investigator |
+| 54,000 | CPU hours | Jetstream | Virtualized remote sensing analysis, GIS, and distributed geospatial data processing using a hybrid cloud resource | TG-EAR160036 | | 2019-03-01 | [publication](https://dl.acm.org/doi/10.1145/2949550.2949573) | Principal Investigator |
+| 500,000 | CPU hours | Jetstream | Virtualized remote sensing analysis, GIS, and distributed geospatial data processing using a hybrid cloud resource | TG-EAR1600367 | 2017-10-13 | 2019-01-13 | [publication](https://dl.acm.org/doi/10.1145/2949550.2949573) | Principal Investigator |
+| 4,000 | GBs | Jetstream Storage | Virtualized remote sensing analysis, GIS, and distributed geospatial data processing using a hybrid cloud resource | TG-EAR160036 | | 2019-03-01 | [publication](https://dl.acm.org/doi/10.1145/2949550.2949573) | Principal Investigator |
+| 1,000 | GBs | Ranch | CyVerse Container Camp workshop on Stampede2 HPC | TG-ASC180017 | | 2019-03-01 | [website](https://cyverse.org/cc) | Co-Principal Investigator |
+| 3,000 | CPU hours | Stampede2 | CyVerse Container Camp workshop on Stampede2 HPC | TG-ASC180017 | | 2019-03-01 | [website](https://cyverse.org/cc) | Co-Principal Investigator |
+| 20,000 | CPU hours | Jetstream | CyVerse Container Camp workshop on Jetstream Cloud | TG-ASC180016 | | 2019-03-01 | [website](https://cyverse.org/cc) | Co-Principal Investigator |
+| 1,000 | GBs | Jetstream Storage | CyVerse Container Camp workshop on Jetstream Cloud | TG-ASC180016 | | 2019-03-01 | [website](https://cyverse.org/cc) | Co-Principal Investigator |
 
 ## Non-Financial Awards and Honors
 
