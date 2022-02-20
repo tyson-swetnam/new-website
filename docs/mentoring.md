@@ -5,6 +5,7 @@ I advise graduate students on their Master's and Doctoral committees at Universi
 # Current
 
 * [Michael Culshaw-Maurer, Ph.D.](https://mcmaurer.github.io/) - Dr. Culshaw-Maurer is a behavioral ecologist and bioinformatics Postdoctoral Researcher. He leads workshops on Foundational Open Science Skills (FOSS) with CyVerse and digital literacy workshops with The Carpentries.
+* [Ifeoluwa Ale, BS](https://www.linkedin.com/in/ifeoluwa-ale-6733b61a9/) - Computer Science
 * [Sarah Jackson, BS](https://www.linkedin.com/in/sarah-jackson-040760193/) - Computer Science, Statistics and Data Science 
 
 # Past
