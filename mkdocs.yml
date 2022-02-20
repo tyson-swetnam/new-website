@@ -10,6 +10,24 @@ edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 
+# Page tree
+nav:
+  - Home: index.md
+  - Research: 
+    - Current: current_projects.md
+    - Prior: previous_projects.md
+    - Grants & Awards: awards.md
+    - Publications: publications.md
+  - Talks: talks.md
+  - Outreach: 
+    - Classes taught: teaching.md
+    - Working Groups: groups.md
+    - Advising & Mentoring: mentoring.md
+  - Job Announcements: jobs.md
+  - Public Data Sets: data.md
+  - Code: code.md
+  - Curriculum Vitae: cv.md
+
 # Configuration
 
 theme:
@@ -101,20 +119,3 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-# Page tree
-nav:
-  - Home: index.md
-  - Research: 
-    - Current: current_projects.md
-    - Prior: previous_projects.md
-    - Grants & Awards: awards.md
-    - Publications: publications.md
-  - Talks: talks.md
-  - Teaching: 
-    - Classes taught: teaching.md
-    - Advising & Mentoring: mentoring.md
-  - Job Announcements: jobs.md
-  - Public Data Sets: data.md
-  - Code: code.md
-  - Curriculum Vitae: cv.md
