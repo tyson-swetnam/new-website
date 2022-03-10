@@ -20,8 +20,6 @@ I am co-PI on a NSF Harnessing the Data Revolution collaborative research projec
 
 ### [Open Dendro](https://opendendro.github.io/opendendro)
 
-:material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-pine-tree-fire: :material-forest:
-
 [![NSF-2054514](https://img.shields.io/badge/NSF-2054514-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054514) [![NSF-2054515](https://img.shields.io/badge/NSF-2054515-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054515) [![NSF-2054516](https://img.shields.io/badge/NSF-2054516-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054516)
 
 :material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r:
@@ -30,17 +28,15 @@ I am co-PI on a NSF collaborative research project to refactor dendrochronologic
 
 ### [Open Forest Observatory]()
 
-:material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter: :material-pine-tree-fire: :material-forest:
-
 [![NSF-2152671](https://img.shields.io/badge/NSF-2152671-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152671) [![NSF-2152672](https://img.shields.io/badge/NSF-2152672-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152672) [![NSF-2152673](https://img.shields.io/badge/NSF-2152673-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152673)
+
+:material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter: :material-pine-tree-fire: :material-forest:
 
 I am PI on a NSF collaborative research project to support reproducible research in forest inventory and analysis using small uncrewed aerial vehicles. 
 
 ## Current projects assisted
 
 ### [HydroGEN](https://github.com/HydroFrame-ML)
-
-:material-github: :material-docker: :material-linux: :material-language-python: :material-graph: :material-weather-snowy-rainy: :material-water: :material-hydro-power:
 
 [![NSF-2134892](https://img.shields.io/badge/NSF-2134892-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2134892) [![NSF-2040542](https://img.shields.io/badge/NSF-2040542-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2040542)
 
