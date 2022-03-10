@@ -10,7 +10,7 @@ I have served as Principal Investigator (PI) and co-Principal Investigator (co-P
 
 For the last six years I have worked for the CyVerse project. I started as a Science Analyst. I am now Co-PI and lead of the Science Team. 
 
-### [Geno-Pheno-Envo](https://genophenoenvo.github.io/)
+### [Geno Pheno Envo](https://genophenoenvo.github.io/)
 
 [![NSF-1939945](https://img.shields.io/badge/NSF-1939945-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939945) [![NSF-1940059](https://img.shields.io/badge/NSF-1940059-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940059) [![NSF-1940062](https://img.shields.io/badge/NSF-1940062-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940062) [![NSF-1940330](https://img.shields.io/badge/NSF-1940330-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940330)
 
@@ -18,13 +18,19 @@ For the last six years I have worked for the CyVerse project. I started as a Sci
 
 I am co-PI on a NSF Harnessing the Data Revolution collaborative research project using Genomics, Phenomics, and Environmental data with machine learning.
 
-### [OpenDendro](https://opendendro.github.io/opendendro)
+### [Open Dendro](https://opendendro.github.io/opendendro)
 
 [![NSF-2054514](https://img.shields.io/badge/NSF-2054514-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054514) [![NSF-2054515](https://img.shields.io/badge/NSF-2054515-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054515) [![NSF-2054516](https://img.shields.io/badge/NSF-2054516-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054516)
 
 :material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r:
 
 I am co-PI on a NSF collaborative research project to refactor dendrochronological software written in Fortran, C, and R into Python, and to ensure reproducibility and community engagement.
+
+### [Open Forest Observatory]()
+
+[![NSF-2152671](https://img.shields.io/badge/NSF-2152671-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152671) [![NSF-2152672](https://img.shields.io/badge/NSF-2152672-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152672) [![NSF-2152673](https://img.shields.io/badge/NSF-2152673-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152673)
+
+I am PI on a NSF collaborative research project to support reproducible research in forest inventory and analysis using small uncrewed aerial vehicles. 
 
 ## Current projects assisted
 
