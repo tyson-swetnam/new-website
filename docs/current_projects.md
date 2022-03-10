@@ -1,4 +1,6 @@
-# Current Projects 
+# Current Projects
+
+## Project Leadership
 
 I have served as Principal Investigator (PI) and co-Principal Investigator (co-PI) on over a dozen funded projects in the last 15 years.
 
@@ -34,7 +36,7 @@ I am co-PI on a NSF collaborative research project to refactor dendrochronologic
 
 I am PI on a NSF collaborative research project to support reproducible research in forest inventory and analysis using small uncrewed aerial vehicles. 
 
-## Current projects assisted
+## Assisted 
 
 ### [HydroGEN](https://github.com/HydroFrame-ML)
 
