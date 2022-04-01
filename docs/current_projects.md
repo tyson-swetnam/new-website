@@ -28,7 +28,7 @@ I am co-PI on a NSF Harnessing the Data Revolution collaborative research projec
 
 I am co-PI on a NSF collaborative research project to refactor dendrochronological software written in Fortran, C, and R into Python, and to ensure reproducibility and community engagement.
 
-### [Open Forest Observatory]()
+### [Open Forest Observatory](https://github.com/open-forest-observatory)
 
 [![NSF-2152671](https://img.shields.io/badge/NSF-2152671-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152671) [![NSF-2152672](https://img.shields.io/badge/NSF-2152672-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152672) [![NSF-2152673](https://img.shields.io/badge/NSF-2152673-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152673)
 
