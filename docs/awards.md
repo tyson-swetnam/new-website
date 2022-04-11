@@ -2,6 +2,7 @@
 
 | Amount | Name | Agency | Start Date | End Date | Info | Role |
 |--------|------|--------|------------|----------|------|------|
+| $45,844 | Collaborative Research: High-Resolution Aerial Forest Mapping Infrastructure and Database to Support Forest and Disturbance Ecology Research | [![NSF-2152673](https://img.shields.io/badge/NSF-2152673-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152673) |  2022-09-01 | 2027-08-31 | [website](https://openforestobservatory.org) | Site Principal Investigator |
 | $15,000,000 | CyVerse: Cyberinfrastructure for the Life Sciences | [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442) | 2018-08-01 | 2023-07-31 | [website](https://cyverse.org) | Co-Principal Investigator |
 | $483,022 | Collaborative Research: Converging Genomics, Phenomics, and Environments Using Interpretable Machine Learning Models |  [![NSF-1940062](https://img.shields.io/badge/NSF-1940062-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940062) | 2019-09-18 | 2022-07-31 | [website](https://genophenoenvo.github.io) | Co-Principal Investigator |
 | $143,148 | Collaborative Research: OpenDendro - Advanced Open-source Tools for Paleoenvironmental Reconstruction | [![NSF-2054516](https://img.shields.io/badge/NSF-2054516-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054516) | 2021-06-01 | 2023-05-31 | [website](https://opendendro.github.io) | Co-Principal Investigator |
