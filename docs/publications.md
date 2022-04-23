@@ -1,10 +1,10 @@
-# Peer Reviewed Publications
-
 <figure markdown> 
   <a href="https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en" rel="Google Scholar Profile">![scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg){ width="100" }
     <figcaption>Google Scholar Profile</figcaption>
   </a>
 </figure>
+
+[:material-map-legend: emoji key](#emoji-key)
 
 **32. Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community**
 *Published in Ecosphere*
@@ -287,3 +287,46 @@ Recommended citation: Swetnam TL, DA Falk, AE Hessl, C Farris (2010) Reconstruct
 [10.1071/WF08001](https://doi.org/10.1071/WF08001)
 
 Recommended citation: Swetnam, T. L., P.M. Brown (2010) Comparing selected fire regime condition class (FRCC) and LANDFIRE vegetation model results with tree-ring data. International Journal of Wildland Fire 19(1) 1-13 https://doi.org/10.1071/WF08001
+
+### :material-map-legend: Emoji Key
+
+| Icon | Domain |
+|------|--------|
+| :octicons-container-24: | containers |
+| :material-github: | version control |
+| :material-docker: | docker | 
+| :material-linux: | linux |
+| :material-language-python: | Python |
+| :material-language-r: | R |
+| :material-language-go: | Go language |
+| :material-numeric-10-circle-outline: | ten rules |
+| :material-handshake: | collaborative research |
+| :material-open-source-initiative: | open source initiative |
+| :material-chart-timeline: | temporal |
+| :material-graph: | knowledge graphs |
+|  :material-file-tree: | ontology |
+| :material-math-compass: | measurement |
+| :material-map: | raster mapping | 
+| :material-map-marker-path: | vector mapping |
+| :material-map-clock: | temporal mapping |
+| :material-compass-rose: | habitat mapping |
+| :material-google-earth: | Google Earth Engine |
+| :material-satellite-variant: | earth observation systems |
+| :material-airplane: | airborne remote sensing | 
+| :material-quadcopter: | small uncrewed aerial systems |
+| :material-tower-fire: | eddy covariance tower |
+| :material-weather-snowy-rainy: | snow hydrology |
+| :material-weather-partly-rainy: | semi-arid hydrology |
+| :material-weather-lightning-rainy: | hydrology |
+| :fontawesome-solid-wind: | atmospheric science |
+| :fontawesome-solid-mountain: | geomorphology |
+| :material-pine-tree-fire: | wildland forest fire | 
+| :material-dna: | genetics | 
+| :material-family-tree: | genomics |
+| :material-leaf: | plant science |
+| :material-forest: | forest ecology |
+| :material-cactus: | desert ecology |
+| :material-grass: | grassland ecology |
+| :material-cow: | cattle management |
+| :material-horse: | range management |
+| :material-bug: | entomology |

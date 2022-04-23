@@ -1,8 +1,6 @@
-# Current Projects
-
-## Project Leadership
-
 I have served as Principal Investigator (PI) and co-Principal Investigator (co-PI) on over a dozen funded projects in the last 15 years.
+
+[:material-map-legend: emoji key](#emoji-key)
 
 ### [CyVerse](https://cyverse.org) 
 
@@ -75,3 +73,46 @@ Also with Iowa State University, I am senior personnel on FACTS: a scalable cybe
 :material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest:
 
 Assessing the Climate Change Mitigation Potential of Diverse Vegetation Types in the Pinaleño Mountains, Arizona
+
+### :material-map-legend: Emoji Key
+
+| Icon | Domain |
+|------|--------|
+| :octicons-container-24: | containers |
+| :material-github: | version control |
+| :material-docker: | docker | 
+| :material-linux: | linux |
+| :material-language-python: | Python |
+| :material-language-r: | R |
+| :material-language-go: | Go language |
+| :material-numeric-10-circle-outline: | ten rules |
+| :material-handshake: | collaborative research |
+| :material-open-source-initiative: | open source initiative |
+| :material-chart-timeline: | temporal |
+| :material-graph: | knowledge graphs |
+|  :material-file-tree: | ontology |
+| :material-math-compass: | measurement |
+| :material-map: | raster mapping | 
+| :material-map-marker-path: | vector mapping |
+| :material-map-clock: | temporal mapping |
+| :material-compass-rose: | habitat mapping |
+| :material-google-earth: | Google Earth Engine |
+| :material-satellite-variant: | earth observation systems |
+| :material-airplane: | airborne remote sensing | 
+| :material-quadcopter: | small uncrewed aerial systems |
+| :material-tower-fire: | eddy covariance tower |
+| :material-weather-snowy-rainy: | snow hydrology |
+| :material-weather-partly-rainy: | semi-arid hydrology |
+| :material-weather-lightning-rainy: | hydrology |
+| :fontawesome-solid-wind: | atmospheric science |
+| :fontawesome-solid-mountain: | geomorphology |
+| :material-pine-tree-fire: | wildland forest fire | 
+| :material-dna: | genetics | 
+| :material-family-tree: | genomics |
+| :material-leaf: | plant science |
+| :material-forest: | forest ecology |
+| :material-cactus: | desert ecology |
+| :material-grass: | grassland ecology |
+| :material-cow: | cattle management |
+| :material-horse: | range management |
+| :material-bug: | entomology |

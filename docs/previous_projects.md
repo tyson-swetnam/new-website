@@ -1,3 +1,5 @@
+[:material-map-legend: emoji key](#emoji-key)
+
 ## [Jemez Mountains Pilot Fuels Mapping](https://promethean-gift.github.io)
 
 [Project Website](https://promethean-gift.github.io)
@@ -8,7 +10,7 @@ A 2019-2020 study funded by [The Nature Conservancy](https://www.nature.org/en-u
 
 ## Mexican Wolf Recovery
 
-:material-compass-rose: :material-math-compass: :material-map-clock: :material-map-marker-path: :material-language-r: 
+:material-compass-rose: :material-math-compass: :material-map: :material-map-clock: :material-map-marker-path: :material-language-r: 
 
 In 2016, in collaboration with the Arizona Game and Fish Department, and the Universidad Nacional Autónoma de México (UNAM) I was involved in the planning and mapping of potential recovery areas for the critically endangered Mexican Wolf. Our work is published in the [US Fish and Wildlife Service 2017 Species Recovery Plan Draft Report :fontawesome-solid-file-pdf:](https://www.fws.gov/southwest/es/mexicanwolf/pdf/20170622_DftBioReport_Appendices.pdf), and by my Mexican colleages at UNAM in 2021. 
 
@@ -35,3 +37,46 @@ My post-doctoral research was supported by the NSF Critical Zone Observatories N
 :material-satellite-variant: :material-airplane: :material-quadcopter: :material-math-compass: :material-map-clock: :material-pine-tree-fire: :fontawesome-solid-mountain: :material-forest: :material-leaf: :material-dna:
 
 My Ph.D. was supported by the USDA Forest Service as a Student Temporary Employment Program (STEP). This work was documented in my dissertation, and resulted in five peer-reviewed manuscripts and one working paper. 
+
+### :material-map-legend: Emoji Key
+
+| Icon | Domain |
+|------|--------|
+| :octicons-container-24: | containers |
+| :material-github: | version control |
+| :material-docker: | docker | 
+| :material-linux: | linux |
+| :material-language-python: | Python |
+| :material-language-r: | R |
+| :material-language-go: | Go language |
+| :material-numeric-10-circle-outline: | ten rules |
+| :material-handshake: | collaborative research |
+| :material-open-source-initiative: | open source initiative |
+| :material-chart-timeline: | temporal |
+| :material-graph: | knowledge graphs |
+|  :material-file-tree: | ontology |
+| :material-math-compass: | measurement |
+| :material-map: | raster mapping | 
+| :material-map-marker-path: | vector mapping |
+| :material-map-clock: | temporal mapping |
+| :material-compass-rose: | habitat mapping |
+| :material-google-earth: | Google Earth Engine |
+| :material-satellite-variant: | earth observation systems |
+| :material-airplane: | airborne remote sensing | 
+| :material-quadcopter: | small uncrewed aerial systems |
+| :material-tower-fire: | eddy covariance tower |
+| :material-weather-snowy-rainy: | snow hydrology |
+| :material-weather-partly-rainy: | semi-arid hydrology |
+| :material-weather-lightning-rainy: | hydrology |
+| :fontawesome-solid-wind: | atmospheric science |
+| :fontawesome-solid-mountain: | geomorphology |
+| :material-pine-tree-fire: | wildland forest fire | 
+| :material-dna: | genetics | 
+| :material-family-tree: | genomics |
+| :material-leaf: | plant science |
+| :material-forest: | forest ecology |
+| :material-cactus: | desert ecology |
+| :material-grass: | grassland ecology |
+| :material-cow: | cattle management |
+| :material-horse: | range management |
+| :material-bug: | entomology |
