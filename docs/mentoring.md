@@ -16,7 +16,7 @@ I advise graduate students on their Master's and Doctoral committees at Universi
 * 2021 [Vibhor Mehta, BS](https://www.linkedin.com/in/vibhor-mehta-95071a165/) - Mathematics & Computer Science
 * 2020 [Blase LaSala, MS](https://www.unrealengine.com/en-US/spotlights/exploring-the-stunning-caves-of-the-national-park-service-in-real-time-3d) - Mining and Geological Engineering
 * 2019 [Samapriya Roy, Ph.D.](https://samapriya.github.io/) is a geoinformatician and software developer creating open source tools for the geospatial community
-* 2019 [Caleb Prigge, BS](https://github.com/priggec) - Computer Science
+* 2019 [Caleb Prigge, BS](https://www.linkedin.com/in/caleb-prigge/) - Computer Science
 * 2019 [Jackson Lindsay, MS](https://www.linkedin.com/in/jackson-lindsay-9b4378213/) - Computer Science
 * 2018 [David Slovikosky, MS](https://www.linkedin.com/in/davidslovikosky/) - Computer Science
 * 2018 [Pooja Lakshmi Narayan, MS](https://www.linkedin.com/in/pooja-lakshmi-narayan-89724717/) - Computer Science
