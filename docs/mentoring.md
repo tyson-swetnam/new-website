@@ -17,9 +17,9 @@ I advise graduate students on their Master's and Doctoral committees at Universi
 * 2020 [Blase LaSala, MS](https://www.unrealengine.com/en-US/spotlights/exploring-the-stunning-caves-of-the-national-park-service-in-real-time-3d) - Mining and Geological Engineering
 * 2019 [Samapriya Roy, Ph.D.](https://samapriya.github.io/) is a geoinformatician and software developer creating open source tools for the geospatial community
 * 2019 [Caleb Prigge, BS](https://github.com/priggec) - Computer Science
-* 2019 [Jackson Lindsey, MS](https://www.linkedin.com/in/jackson-lindsay-9b4378213/) - Computer Science
+* 2019 [Jackson Lindsay, MS](https://www.linkedin.com/in/jackson-lindsay-9b4378213/) - Computer Science
 * 2018 [David Slovikosky, MS](https://www.linkedin.com/in/davidslovikosky/) - Computer Science
 * 2018 [Pooja Lakshmi Narayan, MS](https://www.linkedin.com/in/pooja-lakshmi-narayan-89724717/) - Computer Science
 * 2017 [Sean Hendryx, MS](https://www.linkedin.com/in/sean-hendryx-43894056/) - Geography and Regional Development
+* 2016 [Andrew Brischke, MS](https://extension.arizona.edu/person/andrew-brischke) - Range Management 
 * 2015 [Nicholas Callahan, BS](https://www.linkedin.com/in/nicholas-callahan-425a1545/) - Computer Science
-* 2015 [Andrew Brischke, MS](https://extension.arizona.edu/person/andrew-brischke) - Range Management 
