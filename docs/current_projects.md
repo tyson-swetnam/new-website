@@ -10,6 +10,14 @@ I have served as Principal Investigator (PI) and co-Principal Investigator (co-P
 
 For the last six years I have worked for the CyVerse project. I started as a Science Analyst. I am now Co-PI and lead of the Science Team. 
 
+### [Environmental Data Science Innovation and Inclusion Lab (ESIIL)](https://esiil.org)
+
+[![NSF-2153040](https://img.shields.io/badge/NSF-2153040-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153040)
+
+:material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter:
+
+I am the site lead for UArizona on the [ESIIL](https://esiil.org) Synthesis Center directed out of University of Colorado Boulder.
+
 ### [Geno Pheno Envo](https://genophenoenvo.github.io/)
 
 [![NSF-1939945](https://img.shields.io/badge/NSF-1939945-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939945) [![NSF-1940059](https://img.shields.io/badge/NSF-1940059-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940059) [![NSF-1940062](https://img.shields.io/badge/NSF-1940062-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940062) [![NSF-1940330](https://img.shields.io/badge/NSF-1940330-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940330)
@@ -30,7 +38,7 @@ I am co-PI on a NSF collaborative research project to refactor dendrochronologic
 
 [![NSF-2152671](https://img.shields.io/badge/NSF-2152671-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152671) [![NSF-2152672](https://img.shields.io/badge/NSF-2152672-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152672) [![NSF-2152673](https://img.shields.io/badge/NSF-2152673-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152673)
 
-:material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter: :material-pine-tree-fire: :material-forest:
+:material-pine-tree-fire: :material-forest: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter: 
 
 I am PI on a NSF collaborative research project to support reproducible research in forest inventory and analysis using small uncrewed aerial vehicles. 
 
