@@ -13,6 +13,7 @@ Currently, I assist on the following projects and working groups as a member:
 
 | Group Name | Dates | Status |
 |------------|-------|--------|
+| [NASA Transform to Open Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science){target=_blank} Subject Matter Expert | 2022 - Present | Active |
 | [Cloud Infrastructure Working Group, CI-Compass](https://ci-compass.org/){target=_blank} | 2021 - Present | Active |
 | [NEON Lidar Working Group](https://www.neonscience.org/about/advisory-groups/twgs/lidar-twg){target=_blank} | 2018 - Present | Active |
 | [Earth Science Information Partners](https://www.esipfed.org/){target=_blank} | 2018 - Present | Active | 
