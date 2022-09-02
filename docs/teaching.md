@@ -14,8 +14,12 @@ M-580 Fire in Ecosystem Management
 
 ### CyVerse Learning Center
 
-[Foundational Open Science Skills](https://learning.cyverse.org/projects/cyverse-foss/en/latest/index.html)
+[Foundational Open Science Skills](https://learning.cyverse.org/projects/cyverse-foss/en/latest/index.html){target=_blank}
 
-[Container Camp Basics & Advanced](https://learning.cyverse.org/projects/cyverse-container-camp/en/latest/index.html)
+[Container Camp Basics & Advanced](https://learning.cyverse.org/projects/cyverse-container-camp/en/latest/index.html){target=_blank}
 
-[NEON-AOP](https://cyverse-2021-neon-aop-workshop.readthedocs-hosted.com/en/latest/index.html)
+### Geoinformatics
+
+[RISE 2021 Working with NEON Airborne Observation Platform data :material-language-python: :material-language-r:](https://cyverse-2021-neon-aop-workshop.readthedocs-hosted.com/en/latest/index.html){target=_blank}
+
+[AGIC 2022 Working with Cloud Native Data :material-cloud-braces: :material-language-python:](https://tyson-swetnam.github.io/agic-2022){target=_blank}
