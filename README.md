@@ -2,8 +2,6 @@
 
 # Personal Website
 
-[tyson-swetnam.github.io/home/](https://tyson-swetnam.github.io/home/)
+[tysonswetnam.com](https://tysonswetnam.com)
 
-[MkDocs](https://www.mkdocs.org/)
-
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+Built using [MkDocs](https://www.mkdocs.org/) with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
