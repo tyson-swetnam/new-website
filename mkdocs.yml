@@ -66,6 +66,13 @@ theme:
   font:
     text: Montserrat
     code: Regular
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
   favicon: assets/favicon.png
   icon:
     logo: material/pine-tree-fire
