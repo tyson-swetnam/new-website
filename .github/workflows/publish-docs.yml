@@ -13,11 +13,12 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: 3.9.12
-      - name: material insiders
-        run: pip install --upgrade git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - name: run requirements file
-        run:  pip install -r requirements_mkdocs.txt 
+        run:  pip install -r requirements_mkdocs.txt
+      - name: material insiders
+        run: pip install --upgrade git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git  
       - name: Deploy docs
         run: mkdocs gh-deploy --force
         env:
+          GH_TOKEN: ${{secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
