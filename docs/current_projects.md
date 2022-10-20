@@ -18,14 +18,6 @@ For the last six years I have worked for the CyVerse project. I started as a Sci
 
 I am the site lead for UArizona on the [ESIIL](https://esiil.org) Synthesis Center directed out of University of Colorado Boulder.
 
-### [Geno Pheno Envo](https://genophenoenvo.github.io/)
-
-[![NSF-1939945](https://img.shields.io/badge/NSF-1939945-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939945) [![NSF-1940059](https://img.shields.io/badge/NSF-1940059-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940059) [![NSF-1940062](https://img.shields.io/badge/NSF-1940062-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940062) [![NSF-1940330](https://img.shields.io/badge/NSF-1940330-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940330)
-
-:material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r:
-
-I am co-PI on a NSF Harnessing the Data Revolution collaborative research project using Genomics, Phenomics, and Environmental data with machine learning.
-
 ### [Open Dendro](https://opendendro.github.io/opendendro)
 
 [![NSF-2054514](https://img.shields.io/badge/NSF-2054514-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054514) [![NSF-2054515](https://img.shields.io/badge/NSF-2054515-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054515) [![NSF-2054516](https://img.shields.io/badge/NSF-2054516-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054516)
