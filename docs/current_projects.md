@@ -18,6 +18,14 @@ For the last six years I have worked for the CyVerse project. I started as a Sci
 
 I am the site lead for UArizona on the [ESIIL](https://esiil.org) Synthesis Center directed out of University of Colorado Boulder.
 
+### Towards Distributed and Scalable Personalized Cyber-Training
+
+:material-handshake: :material-github: :material-docker: :material-language-python:
+
+![NSF-1829701](https://img.shields.io/badge/NSF-1829701-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829701)
+
+This project is addressing the challenge of providing distributed, scalable, and personalized training of cyberinfrastructures - systems that offer state-of-the-art cloud services for storing, sharing, and processing scientific data. Today, personalized training of these rapidly evolving, and hence relatively undocumented, systems requires trainer-supervised, hands-on use of these systems.
+
 ### [Open Dendro](https://opendendro.github.io/opendendro)
 
 [![NSF-2054514](https://img.shields.io/badge/NSF-2054514-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054514) [![NSF-2054515](https://img.shields.io/badge/NSF-2054515-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054515) [![NSF-2054516](https://img.shields.io/badge/NSF-2054516-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2054516)
@@ -30,7 +38,7 @@ I am co-PI on a NSF collaborative research project to refactor dendrochronologic
 
 [![NSF-2152671](https://img.shields.io/badge/NSF-2152671-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152671) [![NSF-2152672](https://img.shields.io/badge/NSF-2152672-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152672) [![NSF-2152673](https://img.shields.io/badge/NSF-2152673-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152673)
 
-:material-pine-tree-fire: :material-forest: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter: 
+:material-handshake: :material-pine-tree-fire: :material-forest: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter: 
 
 I am PI on a NSF collaborative research project to support reproducible research in forest inventory and analysis using small uncrewed aerial vehicles. 
 
