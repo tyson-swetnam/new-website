@@ -6,6 +6,8 @@
 
 Built using [MkDocs](https://www.mkdocs.org/) with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 
 
+# Build instructions
+
 ```
 git clone https://github.com/tyson-swetnam/home
 
