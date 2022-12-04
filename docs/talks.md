@@ -1,27 +1,67 @@
-# Selected Public Talks 2021
-
 ## YouTube
 
-[My Channel](https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ)
+[My Channel](https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ){target=_blank}
 
 ## CyVerse Webinars
 
 I frequently contribute to CyVerse' virtual Webinars:
 
-[YouTube Playlist](https://www.youtube.com/c/CyverseOrgProject/search?query=tyson%20swetnam)
+[YouTube Playlist](https://www.youtube.com/c/CyverseOrgProject/search?query=tyson%20swetnam){target=_blank}
+
+# 2023
+
+# 2022
+
+## Arizona Geospatial Information Council Cloud Native Data Workshop
+
+[AGIC-2022 workshop website](https://tyson-swetnam.github.io/agic-2022){target=_blank}
+
+## School of Natural Resources and the Environment Faculty Talk
+
+[slides](https://docs.google.com/presentation/d/1h1Swq-uzHFStOttaNUCY5t4W0gPbEjuhLvFrFMT02Lo/edit?usp=sharing){target=_blank}
+
+[recording (UArizona only)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7446c3f0-5a4a-414e-8852-aeb7013f1e8d){target=_blank}
+
+## Data Cite User Group
+
+Location: Virtual
+Date: May 5, 2022
+
+[slides](https://docs.google.com/presentation/d/1QNfUDbhzSM2ClXT9Prv5uHwVO27GobpsoUE7UKq79yU/edit?usp=sharing){target=_blank}
+
+## NASA OSS4ESO
+
+Location: Virtual
+Date: March 3, 2022
+[Open Source Science for the Earth System Observatory Mission Data Processing Study Workshops](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops){target=_blank}
+
+[slides](https://docs.google.com/presentation/d/1sjxda95y-wZvVwQtYIoC5gDzxutdg9Wz/edit?usp=sharing&ouid=112865986273508210594&rtpof=true&sd=true){target=_blank}
+
+[5-pager pdf](https://zenodo.org/record/5942573/files/CyVerse_OSSPS_Workshop_2%20RFI_Response.pdf){target=_blank}
+
+## CI Compass CI 4 Major Facilities
+
+Location: Redondo Beach, CA
+Date: February 2022
+
+[YouTube](https://www.youtube.com/watch?v=M5xFHLYgGmw){target=_blank}
+
+[slides](https://docs.google.com/presentation/d/1lnEZs15WkOMcCC-oikgzFwUkdrsYFctoIy99WVpGLc8/edit?usp=sharing)
+
+# 2021
 
 ## BOSC Foundational Open Science Skills
 
-[YouTube Recording](https://www.youtube.com/watch?v=DqqWdejDtDA) 
+[YouTube Recording](https://www.youtube.com/watch?v=DqqWdejDtDA){target=_blank} 
 
 ## CyVerse NEON-AOP Workshop 2020-2021
 
-[Website](https://cyverse-2020-neon-aop-workshop.readthedocs-hosted.com/en/latest/)
+[Website](https://cyverse-2020-neon-aop-workshop.readthedocs-hosted.com/en/latest/){target=_blank}
 
-[YouTube Playlist](https://www.youtube.com/playlist?list=PL38WPXpo-ZW0x0f_nsWYO9eCuf5odC8Dw)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL38WPXpo-ZW0x0f_nsWYO9eCuf5odC8Dw){target=_blank}
 
 ## Fireside Chat with Joe Buck in Nature
 
-[Website](https://www.joebuckinnature.com)
+[Website](https://www.joebuckinnature.com){target=_blank}
 
-[YouTube Recording](https://www.youtube.com/watch?v=oVgg5YY3eTs&t=2016s)
+[YouTube Recording](https://www.youtube.com/watch?v=oVgg5YY3eTs&t=2016s){target=_blank}

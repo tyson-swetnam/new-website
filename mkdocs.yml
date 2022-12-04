@@ -13,6 +13,8 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 # Page tree
 nav:
   - Home: index.md
+  - Blog:
+    - blog/index.md
   - Research: 
     - Current: current_projects.md
     - Prior: previous_projects.md
@@ -84,8 +86,12 @@ extra:
   social:
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0002-6639-7181
+    - icon: simple/googlescholar  
+      link: https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en
     - icon: fontawesome/brands/github
       link: https://github.com/tyson-swetnam/
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@tswetnam  
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/tswetnam
     - icon: fontawesome/brands/linkedin
@@ -142,6 +148,7 @@ extra_css:
   - stylesheets/extra.css
  
 plugins:
+    - blog
     - search
     - mkdocstrings
     - git-revision-date

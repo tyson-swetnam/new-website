@@ -4,4 +4,14 @@
 
 [tysonswetnam.com](https://tysonswetnam.com)
 
-Built using [MkDocs](https://www.mkdocs.org/) with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+Built using [MkDocs](https://www.mkdocs.org/) with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 
+
+```
+git clone https://github.com/tyson-swetnam/home
+
+cd home
+
+pip install -r requirements.txt
+
+mkdocs serve
+```

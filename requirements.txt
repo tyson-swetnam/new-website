@@ -12,8 +12,9 @@ twine
 watchdog
 wheel
 mkdocs-git-revision-date-plugin 
-mkdocs-jupyter 
+mkdocs-jupyter
 mkdocs-material 
+git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 mkdocs-pdf-export-plugin
 mkdocstrings 
 mkdocstrings-crystal
