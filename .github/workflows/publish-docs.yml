@@ -13,9 +13,15 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: 3.9
+      - name: install insiders
+        run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: run requirements file
-        run:  pip install -r requirements.txt 
+        run:  pip install -r requirements.txt
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Deploy docs
         run: mkdocs gh-deploy --force
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
