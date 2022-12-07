@@ -24,6 +24,8 @@ For the last few years I've tried to publish derived data products as supplement
 
 [:simple-awesomelists: Awesome Fire Science](https://github.com/tyson-swetnam/awesome-fire-science){target=_blank} - My personal awesome list of open source tools and data for wildland fire and forest research.
 
+[:simple-awesomelists: Awesome Community Datasets](https://gee-community-catalog.org/){target=_blank}  - in collaboration with my colleague [Samapriya Roy](https://samapriya.github.io/){target=_blank} , a list of several hundred public datasets that have been ingested to [Google Earth Engine using STAC Catalog](https://code.earthengine.google.com/?accept_repo=users/sat-io/awesome-gee-catalog-examples){target=_blank} .
+
 # Old lab journals and webpages
 
 Before transitioning to GitHub I used an Atlassian Confluence Wiki hosted by CyVerse for several years to organize my lab materials. Those archived pages are [here](https://cyverse.atlassian.net/wiki/spaces/~tyson_swetnam/overview){target=_blank}

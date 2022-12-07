@@ -13,5 +13,5 @@ cd home
 
 pip install -r requirements.txt
 
-mkdocs serve
+python3 -m mkdocs serve
 ```

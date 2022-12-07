@@ -14,7 +14,17 @@ I frequently contribute to CyVerse' virtual Webinars:
 
 ## Arizona Geospatial Information Council Cloud Native Data Workshop
 
-[AGIC-2022 workshop website](https://tyson-swetnam.github.io/agic-2022){target=_blank}
+Location: Prescott AZ
+Date: September 2
+
+[workshop website](https://tyson-swetnam.github.io/agic-2022){target=_blank}
+
+## Arizona Society for Range Management Meeting
+
+Location: V-V Ranch, Happy Jack AZ
+Date: August 4-5
+
+[handout](../assets/2022_08_04_AZSRM_handout.pdf)
 
 ## School of Natural Resources and the Environment Faculty Talk
 
