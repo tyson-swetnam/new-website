@@ -19,7 +19,7 @@
   </a>
 </figure>
 
-#### [Read my Blog](./blog/index.md)
+#### [Blog](./blog/index.md)
 
 ### [Research](./current_projects/) 
 
