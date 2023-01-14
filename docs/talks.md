@@ -10,6 +10,13 @@ I frequently contribute to CyVerse' virtual Webinars:
 
 # 2023
 
+## Plant and Animal Genome 30
+
+Location: San Diego CA
+Date: January 14
+
+[slides](https://docs.google.com/presentation/d/1pXn3mfaBOI2JArjOVz71KkhpN_Y08D1gc0IotdRFuGY/edit?usp=sharing){target=_blank}
+
 # 2022
 
 ## Arizona Geospatial Information Council Cloud Native Data Workshop
