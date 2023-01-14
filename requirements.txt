@@ -12,7 +12,7 @@ twine
 watchdog
 wheel
 mkdocs-git-revision-date-plugin 
-#mkdocs-jupyter 
+mkdocs-jupyter 
 mkdocs-material 
 mkdocs-pdf-export-plugin
 mkdocstrings 
