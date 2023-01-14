@@ -13,8 +13,8 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 # Page tree
 nav:
   - Home: index.md
-  - Blog:
-    - blog/index.md
+#  - Blog:
+#    - blog/index.md
   - Research: 
     - Current: current_projects.md
     - Prior: previous_projects.md
@@ -148,7 +148,7 @@ extra_css:
   - stylesheets/extra.css
  
 plugins:
-    - blog
+  #  - blog
     - search
     - mkdocstrings
     - git-revision-date
