@@ -3,4 +3,4 @@ plugins:
   - search
   - social
   - tags
-  - blog
+#  - blog
