@@ -10,6 +10,14 @@ I frequently contribute to CyVerse' virtual Webinars:
 
 # 2023
 
+## M580 Fire in Ecosystem Management
+
+Location: National Advanced Fire Resource Institute, Tucson AZ
+Date: January 24
+
+[slides](https://docs.google.com/presentation/d/1FHrRgW43NVSMsu3g95fE7ojGuPRh_t8d2uuIkDqi5So/edit){target=_blank}
+[Awesome Fire Science list](https://tyson-swetnam.github.io/awesome-fire-science){target=_blank}
+
 ## Plant and Animal Genome 30
 
 Location: San Diego CA
