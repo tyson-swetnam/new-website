@@ -10,6 +10,26 @@ I frequently contribute to CyVerse' virtual Webinars:
 
 # 2023
 
+## Planet Labs UArizona Kick-Off
+
+Working with cloud-optimized, and analysis-ready data formats on the cloud
+
+Location: University of Arizona, Tucson AZ
+Date: February 14
+
+[slides](https://docs.google.com/presentation/d/1rCfWTwLiOD5HFIaQWHwQfAUclcO5SQlMpRT7nfWdISg/edit?usp=sharing){target=_blank}
+
+[Planet Labs Explorer](https://www.planet.com/explorer/){target=_blank}
+
+## NSF Macrosystems Forest Resiliency Working Group
+
+Location: University of Colorado Boulder, Earth Lab, Boulder CO (virtual)
+Date: February 13
+
+[slides](https://docs.google.com/presentation/d/1uw9-E7O6qjM-oRA3-HXMB0fY7iLyP0hupAR_PXqEkuY/edit?usp=sharing){target=_blank}
+
+[Workshop Form](https://user.cyverse.org/workshops/123){target=_blank}
+
 ## M580 Fire in Ecosystem Management
 
 Location: National Advanced Fire Resource Institute, Tucson AZ
