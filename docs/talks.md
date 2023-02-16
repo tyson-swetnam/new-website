@@ -60,7 +60,8 @@ Date: September 2
 Location: V-V Ranch, Happy Jack AZ
 Date: August 4-5
 
-[handout](../assets/2022_08_04_AZSRM_handout.pdf)
+[handout](https://github.com/tyson-swetnam/home/raw/main/assets/2022_08_04_AZSRM_handout.pdf){target=_blank}
+
 
 ## School of Natural Resources and the Environment Faculty Talk
 
