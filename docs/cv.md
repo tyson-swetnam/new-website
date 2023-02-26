@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[Download Latest PDF :fontawesome-solid-file-pdf:](https://github.com/tyson-swetnam/home/raw/main/assets/2022-12-07-CV-Tyson-Lee-Swetnam.pdf)
+[Download my latest CV :fontawesome-solid-file-pdf:](https://github.com/tyson-swetnam/home/raw/main/assets/2023_02_25_Swetnam_CV.pdf)
       
 ### Foundational experiences
 
