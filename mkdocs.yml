@@ -149,7 +149,9 @@ extra_css:
   - stylesheets/extra.css
  
 plugins:
-    - blog
+    - blog:
+        blog_dir: blog/posts
+        post_date_format: long
     - search
     - mkdocstrings
     - git-revision-date
