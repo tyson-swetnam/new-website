@@ -150,8 +150,9 @@ extra_css:
  
 plugins:
     - blog:
-        blog_dir: blog/posts
-        post_date_format: long
+        blog_dir: blog
+        archive: false
+        post_url_format: "{date}/{slug}"
     - search
     - mkdocstrings
     - git-revision-date
