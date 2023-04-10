@@ -3,9 +3,15 @@ draft: true
 date: 2023-04-17
 authors:
     - tyson-swetnam
+    - seth-murray
+    - openai
 ---
 
-# Transformative events in scientific history
+## What is AI and why should you care?
+
+## What are three AI tools that might help you?
+
+**Table**: Transformative events in scientific history
 
 | Dates | Technology | Transformation | Hype Years | Years until integration in science |
 |-------|------------|----------------|------------|------------------------------------| 
@@ -29,11 +35,9 @@ In 1951 the first commercial computer, UNIVAC (Universal Automatic Computer) is 
 
 In the [1950s scientists proposed definitions of AI](https://web.archive.org/web/20070826230310/http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html){target=_blank}. In 1963, [Computers and Thought](https://dl.acm.org/doi/10.5555/601134){target=_blank} was published, highlighting 20 seminal papers on AI. 
 
-
 The [FORTRAN (Formula Translation)](https://fortran-lang.org/en/){target=_blank} programming language is created in 1957 by John Backus team at IBM. Critically, FORTAN shortened the process of programming and made computer programming more accessible. Over 60 years later, modern FORTRAN is still one of the most popular languages for [numerical simulation modelling in high performance computing](https://github.com/lanl?language=fortran){target=_blank}.
 
-
-In 2018 LLMs are released by major tech companies (Microsoft, Google, Meta (Facebook))
+In 2018 LLMs are released by major tech companies (Microsoft, Google, Meta (Facebook)). In late 2022, ChatGPT-3 is released and within two months has over 100 million 
 
 
 Other fun facts: humans are powered by our metabolism, which works out to about ~12 watts of electrical energy per brain and 80 watts of resting metabolic rate. Current LLMs require training on many thousands of GPUs for many months, each requiring thousands of watts of energy. The technological ability to create mechanical silicon based brains (Androids) or biologically artifical beings (think: the 10 foot tall alien Na'vi avatars from the Avatar movie franchise) with a similar energy budget reserved to the realm of science fiction.
