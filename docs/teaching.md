@@ -12,6 +12,10 @@ M-580 Fire in Ecosystem Management
 
 ## Workshops
 
+### Data Science Institute
+
+[GPT-101: Introduction to Large Language Models](https://ua-data7.github.io/introllms){target=_blank}
+
 ### CyVerse Learning Center
 
 [Foundational Open Science Skills](https://learning.cyverse.org/projects/cyverse-foss/en/latest/index.html){target=_blank}
