@@ -8,7 +8,7 @@ Built using [MkDocs](https://www.mkdocs.org/) with [Material for MkDocs](https:/
 
 # Build instructions
 
-```
+```{bash}
 git clone https://github.com/tyson-swetnam/home
 
 cd home
@@ -17,3 +17,13 @@ pip install -r requirements.txt
 
 python3 -m mkdocs serve
 ```
+
+## Building with Insiders
+
+after the initial build follow up with
+
+```{bash}
+pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+```
+
+Disabled `mkdocs-jupyter` for now due to version lag.

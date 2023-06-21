@@ -1,5 +1,9 @@
 For the last few years I've tried to publish derived data products as supplemental materials with DataCite DOI through the [CyVerse Data Commons](https://datacommons.cyverse.org){target=_blank}.
 
+## Preprints & Supplemental Materials
+
+[Swetnam et al. 2023](https://datacommons.cyverse.org/browse/iplant/home/shared/publications/swetnam_et_al_2023_bioRxiv)
+
 ## Published Supplemental Materials
 
 [Gillan et al. 2021](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_Ecosphere_2021){target=_blank}

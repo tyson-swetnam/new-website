@@ -2,11 +2,39 @@
 
 [:material-map-legend: emoji key](#emoji-key)
 
+**37. CyVerse: Cyberinfrastruture for Open Science**
+*Preprint BioArxiv, in review PLOS Computational Biology as Software Paper*
+
+:material-handshake: :material-database: :material-leaf: :material-bug: :material-dna: :material-graph-outline: :material-language-r: :material-language-python: :material-creative-commons: :material-open-source-initiative: 
+
+[10.1101/2023.06.16.545223](https://doi.org/10.1101/2023.06.16.545223){target=_blank}
+
+Recommended Citation: Swetnam T.L, P.B. Antin, R. Bartelme, A. Bucksch, D. Camhy, G. Chism, I. Choi, A.M. Cooksey, M. Cosi, C.Cowen, M. Culshaw-Maurer, R. Davey, S. Davey, U.Devisetty, T. Edgin, A. Edmonds, D. Fedorov, J. Frady, J. Fonner, J.K. Gillan, I. Hossain, B.L. Joyce, K. Lang, T. Lee, S. Littin, I. Mcewen, N. Merchant, D. Micklos,  A. Nelson, A. Ramsey, S. Roberts, P. Sarando, E. Skidmore, J. Song, M.M. Sprinkle, S. Srinivasan, J.D. Strootman, S. Stryeck, R. Tuteja, M. Vaughn, M. Wali, M. Wall, R. Walls, L. Wang, T. Wickizer,  J. Williams, J.Wregglesworth, & E. Lyons (2023) CyVerse: Cyberinfrastructure for Open Science. BioArxiv https://doi.org/10.1101/2023.06.16.545223
+
+**36. Using knowledge graphs to infer gene
+expression in plants.**
+*Published in Frontiers in Artificial Intelligence*
+
+:material-database: :fontawesome-solid-wind: :material-leaf: :material-grass: :material-dna: :material-graph-outline: :material-language-r: :material-language-python: 
+
+[10.3389/frai.2023.1201002](https://doi.org/10.3389/frai.2023.1201002){target=_blank}
+
+Thessen, A., L. Cooper, T.L. Swetnam, et al. (2023) Using knowledge graphs to infer gene
+expression in plants. Frontiers in Artificial Intelligence, 6, 92 [10.3389/frai.2023.1201002](https://doi.org/10.3389/frai.2023.1201002){target=_blank}
+
+**35. PhytoOracle** 
+*Published in Frontiers in Plant Sciences*
+
+:material-database: :fontawesome-solid-wind: :material-leaf: :material-grass: :material-dna: :material-graph-outline: :material-language-r: :material-language-python: 
+
+Gonzalez, E.M., A. Zarei, N. Hendler, et al. (2023). PhytoOracle: Scalable, modular
+phenomics data processing pipelines. Frontiers in Plant Science, 14, 1112973-1112973 [10.1002/essoar.10508789.1](https://doi.org/ 10.1002/essoar.10508789.1){target=_blank}
+
 **34. Reimagine fire science for the anthropocene** *Published in PNAS Nexus*
 
 :material-handshake: :material-pine-tree-fire:
 
-[10.1093/pnasnexus/pgac115](https://doi.org/10.1093/pnasnexus/pgac115)
+[10.1093/pnasnexus/pgac115](https://doi.org/10.1093/pnasnexus/pgac115){target=_blank}
 
 Recommended Citation: Jacquelyn K Shuman, Jennifer K Balch, Rebecca T Barnes, Philip E Higuera, Christopher I Roos, Dylan W Schwilk, E Natasha Stavros, Tirtha Banerjee, Megan M Bela, Jacob Bendix, Sandro Bertolino, Solomon Bililign, Kevin D Bladon, Paulo Brando, Robert E Breidenthal, Brian Buma, Donna Calhoun, Leila M V Carvalho, Megan E Cattau, Kaelin M Cawley, Sudeep Chandra, Melissa L Chipman, Jeanette Cobian-Iñiguez, Erin Conlisk, Jonathan D Coop, Alison Cullen, Kimberley T Davis, Archana Dayalu, Fernando De Sales, Megan Dolman, Lisa M Ellsworth, Scott Franklin, Christopher H Guiterman, Matthew Hamilton, Erin J Hanan, Winslow D Hansen, Stijn Hantson, Brian J Harvey, Andrés Holz, Tao Huang, Matthew D Hurteau, Nayani T Ilangakoon, Megan Jennings, Charles Jones, Anna Klimaszewski-Patterson, Leda N Kobziar, John Kominoski, Branko Kosovic, Meg A Krawchuk, Paul Laris, Jackson Leonard, S Marcela Loria-Salazar, Melissa Lucash, Hussam Mahmoud, Ellis Margolis, Toby Maxwell, Jessica L McCarty, David B McWethy, Rachel S Meyer, Jessica R Miesel, W Keith Moser, R Chelsea Nagy, Dev Niyogi, Hannah M Palmer, Adam Pellegrini, Benjamin Poulter, Kevin Robertson, Adrian V Rocha, Mojtaba Sadegh, Fernanda Santos, Facundo Scordo, Joseph O Sexton, A Surjalal Sharma, Alistair M S Smith, Amber J Soja, Christopher Still, Tyson Swetnam, Alexandra D Syphard, Morgan W Tingley, Ali Tohidi, Anna T Trugman, Merritt Turetsky, J Morgan Varner, Yuhang Wang, Thea Whitman, Stephanie Yelenik, Xuan Zhang, Reimagine fire science for the anthropocene, PNAS Nexus, Volume 1, Issue 3, July 2022, pgac115, https://doi.org/10.1093/pnasnexus/pgac115
 
