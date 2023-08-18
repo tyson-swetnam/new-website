@@ -5,6 +5,8 @@
 * Research Associate Professor of Geoinformatics at [The University of Arizona](https://www.bio5.org/people/tyson-l-swetnam) 
 
 <figure markdown> 
+   <a href="http://datainsight.arizona.edu/" rel="icdi">![icdi](https://datainsight.arizona.edu/sites/default/files/institute-for-comp-data-enabled-insight_web_0.svg){ width="250" }
+  </a>
   <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="250" }
   </a>
 </figure>
