@@ -2,16 +2,26 @@
 
 ## About Me 
 
-* Research Associate Professor of Geoinformatics at [The University of Arizona](https://www.bio5.org/people/tyson-l-swetnam) 
+* Director of Open Science, [Institute for Computation and Data-enabled Insight](http://datainsight.arizona.edu/){target=_blank}
 
 <figure markdown> 
-   <a href="http://datainsight.arizona.edu/" rel="icdi">![icdi](https://datainsight.arizona.edu/sites/default/files/institute-for-comp-data-enabled-insight_web_0.svg){ width="250" }
+   <a href="http://datainsight.arizona.edu/" rel="icdi">![icdi](https://datainsight.arizona.edu/sites/default/files/institute-for-comp-data-enabled-insight_web_0.svg){ width="300" }
   </a>
+</figure>
+
+* Research Associate Professor of Geoinformatics [BIO5 Institute](https://www.bio5.org/people/tyson-l-swetnam) 
+
+<figure markdown> 
   <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="250" }
   </a>
 </figure>
 
-   * Joint faculty in the [School of Natural Resources and Environment](https://nature.arizona.edu)
+* Joint faculty appointment in the [School of Natural Resources and Environment](https://nature.arizona.edu/tyson-swetnam)
+
+<figure markdown> 
+   <a href="http://nature.arizona.edu/" rel="snre">![snre](https://nature.arizona.edu/sites/snre.arizona.edu/files/snre_arizona_edu_header.png){ width="300" }
+  </a>
+</figure>
 
 * Co-principal investigator of [CyVerse](https://cyverse.org), collaborating with diverse groups of data scientists in life and earth sciences.
 
