@@ -12,11 +12,11 @@
 * Research Associate Professor of Geoinformatics, [BIO5 Institute](https://www.bio5.org/people/tyson-l-swetnam) 
 
 <figure markdown> 
-  <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="250" }
+  <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="200" }
   </a>
 </figure>
 
-* Joint faculty appointment [School of Natural Resources and Environment](https://nature.arizona.edu/tyson-swetnam)
+* Joint faculty appointment, [School of Natural Resources and Environment](https://nature.arizona.edu/tyson-swetnam)
 
 <figure markdown> 
    <a href="http://nature.arizona.edu/" rel="snre">![snre](https://nature.arizona.edu/sites/snre.arizona.edu/files/snre_arizona_edu_header.png){ width="300" }
