@@ -4,24 +4,26 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
 jobs:
-  build:
-    name: Deploy docs
+  deploy:
     runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
         with:
-          python-version: 3.9
-      - name: run requirements file
-        run:  pip install -r requirements.txt
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - name: install insiders
-        run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - name: Deploy docs
-        run: mkdocs gh-deploy --force
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: apt-get install pngquant 
+      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+      - run: mkdocs gh-deploy --force
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }} 
