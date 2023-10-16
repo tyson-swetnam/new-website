@@ -13,9 +13,11 @@ twine
 watchdog
 wheel
 mkdocs-git-revision-date-plugin 
-#mkdocs-jupyter 
+mkdocs-jupyter 
 mkdocs-material 
 mkdocs-pdf-export-plugin
+markdown-include
+mkdocstrings
 
 # Requirements for core
 jinja2~=3.0
