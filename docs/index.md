@@ -28,7 +28,7 @@ Tyson Swetnam is a Research Associate Professor of Geoinformatics at The Univers
 
 #### [Blog](./blog/index.md)
 
-### [Research](./current_projects/) 
+### [Research](./current_projects.md) 
 
 <figure markdown>
   <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1797" target="blank" rel="carbon">![carbon](https://promethean-gift.github.io/assets/mcn_rna.jpg){ width="600" } </a>
@@ -42,7 +42,7 @@ Personal research interests include applied use of cyberinfrastructure for geosp
   </a>
 </figure>
 
-### [Education, Outreach, & Training](./teaching/)
+### [Education, Outreach, & Training](./teaching.md)
 
 My team at CyVerse supports a broad community of life scientists, earth scientists, astronomers, and social scientists through our [Learning Center](https://learning.cyverse.org) and [External Collaborative Partnerships](https://cyverse.org/ecp).
 
@@ -66,6 +66,6 @@ We collaborate with The University of Arizona's [Data Science Institute](https:/
 
     We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O’odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
 
-### [Data](./data) & [Code](./code)
+### [Data](./data.md) & [Code](./code.md)
 
 Search or reuse my published & community released research data sets, or peruse the open source software projects I'm active with.
