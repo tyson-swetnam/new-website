@@ -1,14 +1,15 @@
-tyson-swetnam:
-  name: Tyson Lee Swetnam
-  description: Author
-  avatar: https://github.com/tyson-swetnam.png
+authors:
+  tyson-swetnam:
+    name: Tyson Lee Swetnam
+    description: Author
+    avatar: https://github.com/tyson-swetnam.png
 
-seth-murray:
-  name: Seth Murray
-  description: Author
-  avatar: https://pbs.twimg.com/profile_images/1585722244717748225/NXQuWYUc_400x400.jpg
+  seth-murray:
+    name: Seth Murray
+    description: Author
+    avatar: https://pbs.twimg.com/profile_images/1585722244717748225/NXQuWYUc_400x400.jpg
 
-openai:
-  name: OpenAI
-  description: Chat GPT-4 Editor
-  avatar: https://github.com/openai.png
+  openai:
+    name: OpenAI
+    description: Chat GPT-4 Editor
+    avatar: https://github.com/openai.png
