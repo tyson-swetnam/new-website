@@ -1,6 +1,11 @@
 INHERIT: mkdocs.yml
 plugins:
   - search: {}
-  - social: {}
+  - social
   - tags: {}
-  - blog
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      post_dir: "{blog}/posts"
+      post_date_format: full
+    
