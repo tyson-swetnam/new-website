@@ -17,7 +17,8 @@ mkdocs-jupyter
 mkdocs-material 
 mkdocs-pdf-export-plugin
 markdown-include
-mkdocstrings~=0.22.0
+mkdocstrings-python==1.6.2
+mkdocstrings==0.22.0
 
 # Requirements for core
 jinja2~=3.0
