@@ -11,17 +11,17 @@ Tyson Swetnam is a Research Associate Professor of Geoinformatics at The Univers
 </figure>
 
 <figure markdown> 
-  <a href="http://bio5.org/" rel="bio5">![bio5](https://www.bio5.org/sites/default/files/bio5-logo_0.png){ width="200" }
+  <a href="http://bio5.org/" rel="bio5">![bio5](https://bio5.org/sites/default/files/BIO5_ALTERNATE_0_0.svg){ width="200" }
   </a>
 </figure>
 
 <figure markdown> 
-   <a href="http://nature.arizona.edu/" rel="snre">![snre](https://nature.arizona.edu/sites/snre.arizona.edu/files/snre_arizona_edu_header.png){ width="300" }
+   <a href="http://nature.arizona.edu/" rel="snre">![snre](https://snre.arizona.edu/sites/snre.arizona.edu/files/snre_arizona_edu_header.png){ width="300" }
    </a>
 </figure>
 
 <figure markdown> 
-  <a href="http://cyverse.org/" target="blank" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png){ width="300" }
+  <a href="http://cyverse.org/" target="blank" rel="cyverse homepages">![cyverse](https://cyverse.org/sites/default/files/cyverse_logo_1_0.png){ width="300" }
     <figcaption>public cyberinfrastructure for science</figcaption>
   </a>
 </figure>
