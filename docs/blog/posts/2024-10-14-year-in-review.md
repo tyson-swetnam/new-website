@@ -9,7 +9,7 @@ authors:
 
 In the last twelve months I travelled more than any other year in my life. In parts post-COVID travel reauthorization and the desire to meet in-person again and the expansion of my professional network during COVID led to multiple invitations. The near universal need for shared cyberinfrastructure and growth of team science over the last four years also led to new funded research projects for me through CyVerse and ICDI.
 
-Below, I summarize these trips and other professional meetings as they relate to AI, digital twins, and open science.
+Below, I summarize the trips and other professional meetings (22 in total) as they relate to AI, digital twins, and open science.
 
 # Late 2023
 
