@@ -7,7 +7,7 @@ authors:
 
 # A year (plus a couple of months) in review
 
-In the last twelve months I travelled more than any other year in my life. In parts, post-COVID travel reauthorization and the desire to meet in-person again, and the growth of my professional network during COVID, led to multiple invitations. The near universal need for shared cyberinfrastructure and growth of team science over the last four years led to new funded research projects for me through CyVerse and ICDI.
+In the last twelve months I travelled more than any other year in my life. In parts post-COVID travel reauthorization and the desire to meet in-person again and the expansion of my professional network during COVID led to multiple invitations. The near universal need for shared cyberinfrastructure and growth of team science over the last four years also led to new funded research projects for me through CyVerse and ICDI.
 
 Below, I summarize these trips and other professional meetings as they relate to AI, digital twins, and open science.
 
@@ -17,11 +17,11 @@ Let me indulge by covering my travel during the last few months of 2023,
 
 ## 08/31 - 09/03 AGIC, Prescott, Arizona
 
-![AGIC](assets/agic_logo.png){width=200}
+[![AGIC](assets/agic_logo.png){width=200}](https://agic.az.gov/agic/){target=_blank}
 
 The [Arizona Geospatial Information Council (AGIC)](https://agic.az.gov/agic/){target=_blank} supports GIS data across the civil government sector of Arizona. Jeff Gillan and I presented on [Cloud Native Geospatial](https://www.gillanscience.com/cloud-native-geospatial/){target=_blank} data sets and cyberinfrastructure to GIS specialists from state and federal agencies. 
 
-![OSN](assets/osn_logo.jpg){width=300}
+[![OSN](assets/osn_logo.jpg){width=300}](https://openstoragenetwork.org){target=_blank}
 
 One of our goals in attending AGIC is to spread awareness of University of Arizona resources, like CyVerse, and our forthcoming Arizona Data Commons project in collaboration with the [OpenStorageNetwork](https://openstoragenetwork.org){target=_blank}. For those who are interested, I already have data storage resources to support remote sensing data for the state of Arizona in the CyVerse data store. 
 
@@ -35,13 +35,13 @@ The proposed observatoy would have been a compliment to the existing NEON and Am
 
 ## 10/23 - 10/25 NASA-ARID, Tucson, Arizona
 
-![ARID](assets/arid_logo.webp){width=300}
+[![ARID](assets/arid_logo.webp){width=300}](https://aridscoping.arizona.edu/){target=_blank}
 
 In October, a national meeting held at the University of Arizona in support of the next NASA Earth Sciences mission, a next generation successor to [Arctic-Boreal Vulnerability Experiment (ABoVE)](https://above.nasa.gov/){target=_blank}. This new proposal is called "[Adaptation and Response in Drylands (ARID)](https://aridscoping.arizona.edu/){target=_blank}", and is led by USGS and University of Arizona researchers.
 
 ## 11/29 - 12/01 SHEKATE, Salt Lake City, Utah
 
-![WestNet](assets/westnet_logo.png){width=300}
+[![WestNet](assets/westnet_logo.png){width=300}](https://www.westnet.net/){target=_blank}
 
 In early December, I flew to a foggy SLC for a meeting of the WestNet consortium to hear about opportunities for regional innovation in cyberinfrastructure at the [Southwest Higher Education Knowledge and Technology Exchange (SHEKATE)](https://sites.google.com/view/nsf-asu-regional-planning/home){target=_blank}. 
 
@@ -51,7 +51,7 @@ In my daily work, cyberinfrastructure is more `0` and `1` than it is laying fibe
 
 ## 12/4 - 12/6 NSF CISE, Tucson, AZ
 
-![WEST](assets/west_logo.webp){width=300}
+[![WEST](assets/west_logo.webp){width=300}](https://www.westbigdatahub.org){target=_blank}
 
 The NSF CISE [Research Expansion Aspiring Investigators Conference: Southwest meeting](https://www.westbigdatahub.org/post/cise-southwest-research-expansion-aspiring-investigators-conference-held-in-tucson){target=_blank} was held at BIO5 Institute, on the University of Arizona and hosted by the [PI Vignesh Subbian](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336054){target=_blank}.
 
@@ -63,7 +63,7 @@ Attendees learned about opportunities across the NSF CISE and CC* programs from 
 
 ## 01/08 - 01/10 OpenDendro, Tucson, Arizona
 
-![OpenDendro](assets/opendendro_logo.png){width=200}
+[![OpenDendro](assets/opendendro_logo.png){width=200}](https://opendendro.org/){target=_blank}
 
 As we approached the end of our NSF collaborative research award to update legacy software for dendrochronological research, we hosted a summit on the state of the scientific software used by the dendro community. Principal Investigator's of [OpenDendro](https://opendendro.org/){target=_blank}, Kevin Anchukaitis and Andy Bunn, brought a group of technically saavy dendrochronologists to the[Laboratory of Tree Ring Research](https://ltrr.arizona.edu){target=_blank}, where the science of dendrochronology was born, to learn more about the work we've achieved. 
 
@@ -73,9 +73,9 @@ I am so proud of Ifeoluwa Ale's work to write the [first Python package `dplPy`]
 
 ## 01/12 - 01/15 Plant and Animal Genome, San Diego, California
 
-![PAG](assets/pag_banner.png){width=800}
+[![PAG](assets/pag_banner.png){width=800}](https://pag.confex.com/pag/31/meetingapp.cgi/Home/0){target=_blank}
 
-CyVerse has been featured at the [PAG meeting](https://pag.confex.com/pag/31/meetingapp.cgi/Home/0) in San Diego for the last 16 years. This year however, the project began to show its change of direction. For the first time, we did not host a table in the vendor space. Instead we only held an early morning session on AI. 
+CyVerse has been featured at the [PAG meeting](https://pag.confex.com/pag/31/meetingapp.cgi/Home/0){target=_blank} in San Diego for the last 16 years. This year however, the project began to show its change of direction. For the first time, we did not host a table in the vendor space. Instead we only held an early morning session on AI. 
 
 ![PAG Town & Country](assets/pag_tnc.jpg){width=800}
 
@@ -85,15 +85,17 @@ Nirav and I presented on the new AI tools built by the CyVerse team to leverage 
 
 ## 01/16 - 01/18 CI4MF, Long Beach, California
 
-![CI4MF](assets/ci4mf_group_photo.jpg){width=800}
+[![CI Compass](assets/cicompass_logo.png){width=300}](https://ci-compass.org){target=_blank}
 
 I have been a member of the CI-Compass Cloud Working Group for the last several years. This year, we presented our report on [Cloud use for Major Facilities](https://zenodo.org/records/10481410){target=_blank} at the Cyberinfrastructure for Major Facilities ([CI4MF](https://ci-compass.org/news-and-events/news/collaboration-in-action-2024-making-connections-improving-cyberinfrastructure/){target=_blank}) meeting in Long Beach.
+
+![CI4MF](assets/ci4mf_group_photo.jpg){width=800}
 
 Specific to the findings of our report and [presentations by other speakers](https://www.youtube.com/@cicompass){target=_blank}, the storage of scientific data on-premise (i.e., university hosted data centers), and the use of Major Facilities for research computing are massive cost-savings over commercial cloud solutions, saving tax-payers potentially billions of dollars.
 
 ## 01/23 M580, Tucson, Arizona
 
-![NAFRI](assets/nafri_logo.png){width=300}
+[![NAFRI](assets/nafri_logo.png){width=300}](https://www.nafri.gov/){target=_blank}
 
 On my way to the airport, I stopped off at the [National Advanced Fire & Resource Institute (NAFRI)](https://www.nafri.gov/){target=_blank} to present on technology and data applications at the [M580 Fire in Ecosystem Management](https://www.nwcg.gov/committee/m580-fire-in-ecosystem-management-course-steering-committee){target=_blank} course. 
 
@@ -103,7 +105,7 @@ I have presented every year for the last four years at the meeting. It is nostal
 
 ## 01/23 - 01/28 ACUASI, Fairbanks, Alaska
 
-![ACUASI](assets/acuasi_logo.jpeg){width=300}
+[![ACUASI](assets/acuasi_logo.jpeg){width=300}](https://acuasi.alaska.edu/){target=_blank}
 
 ![UAF minus 43](assets/uaf_43f.jpeg){width=320}
 
@@ -119,15 +121,19 @@ In February, I served as a panelist for a scientific funding agency. All of the 
 
 ## 02/25 - 03/02 Sinbiose, Brasilia, Brasil
 
+[![Sinbiose logo](assets/sinbiose_logo.png){width=800}](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/programas/sinbiose-1){target=_blank}
+
 ![Sinbiose](assets/sinbiose_group_photo.png){width=800}
 
-In February, I traveled with my colleagues from CU Boulder (ESIIL) and officals from the NSF to Brasilia Brasil for a collaborative summit between Brasilian and United States ecological researchers called [Sinbiose](https://esiil.org/esiil-sinbiose-workshop){target=_blank}.
+In February, I traveled with my colleagues from CU Boulder (ESIIL) and officals from the NSF to Brasilia Brasil for a collaborative [Summit between Brasilian and United States ecological researchers](https://esiil.org/esiil-sinbiose-workshop){target=_blank}.
 
 ![CNPq](assets/sinbiose_cnpq.jpg)
 
 We also met with the Director of Brazil's counterpart to the US NSF, Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), and discussed future opportunities for Brazil-US collaborative research, similar to the synthesis centers CyVerse are currently supporting. 
 
 ## 03/26 - 03/29 Biosphere 2, Catalina, Arizona
+
+[![B2 logo](assets/bios2_logo.png){width=300}](https://biosphere2.org/){target=_blank}
 
 ![B2](assets/b2_group.jpg){width=800}
 
@@ -137,7 +143,7 @@ In March, Jeff Gillan and I hosted colleagues from Purdue, NEON (Battelle Inc), 
 
 ## 04/03 - 04/05 Chishiki-AI, Austin, Texas 
 
-![TACC](assets/tacc_logo.png){width=300}
+[![TACC](assets/tacc_logo.png){width=300}](https://tacc.utexas.edu/){target=_blank}
 
 In April, Nirav and I went to the Texas Advanced Computing Center (TACC), at UT Austin, to participate in a workshop on digitalt twins and AI for civil engineering, [Chishiki-AI](https://www.chishiki-ai.org/){target=_blank}. 
 
@@ -148,7 +154,7 @@ Nirav and I also got [my first] personal tour of the TACC facility by director D
 
 ## 04/09 - 04/12 Ecological Forecasting Initiative, Portsmouth, New Hampshire
 
-![EFI](assets/efi_logo.jpg){width=300}
+[![EFI](assets/efi_logo.jpg){width=300}](https://ecoforecast.org/){target=_blank}
 
 In April, I attended the [Ecological Forecasting Initiative's Cyberinfrastructure Meeting](https://ecoforecast.org/cyberinfrastructure/){target=_blank}. EFI discussions centered around the advancement of ecological research into digital twins, and hosting of large earth system scale datasets. 
 
@@ -158,7 +164,7 @@ Challenges to EFI's cyberinfrastructure include "the development of standards an
 
 ## 05/13 05/17 ESIIL Summit, Boulder, Colorado
 
-![ESIIL](assets/esiil_summit_header.png){width=800}
+[![ESIIL](assets/esiil_summit_header.png){width=800}](https://esiil.org){target=_blank}
 
 ![ESIIL group](assets/esiil_group.jpg){width=800}
 
@@ -168,17 +174,17 @@ ESIIL hosted its [second innovation summit](https://esiil.org/innovation-summit)
 
 ## 05/21 - 05/23 LTAR All Scientists, Tucson, Arizona
 
-![USDA LTAR](assets/usda_ltar_logo.png){width=300}
+[![USDA LTAR](assets/usda_ltar_logo.png){width=300}](https://ltar.ars.usda.gov/){target=_blank}
 
 The [USDA-ARS LTAR meeting](https://ltar.ars.usda.gov/ltar-home-extended/){target=_blank} was held in Tucson at University of Arizona this year. I provided a short talk about the use of Cyberinfrastructure and Open Science to the group. This marked a decade of collaboration for me with Phil Heilman, the Director of the [Southwest Watershed Research Center (SWWRC)](https://www.ars.usda.gov/pacific-west-area/tucson-az/southwest-watershed-research-center/){target=_blank}. 
 
-![LTAR Guertin](assets/ltar_guertin.jpg){width=300} 
+![LTAR Guertin](assets/ltar_guertin.jpg){width=800} 
 
 Earlier in February my master's advisor Phil D. Guertin, a longtime collaborator with SWWRC, retired from University of Arizona after a multi-decade career in Watershed Management (photo by Laura Norman, USGS). 
 
 ## 06/20 - 06/21 SWEETER, Tucson, Arizona
 
-![SWEETER](assets/sweeter_logo.jpg){width=300}
+[![SWEETER](assets/sweeter_logo.jpg){width=300}](https://hprc.tamu.edu/sweeter/){target=_blank}
 
 In June, I attended the wrap-up of Arizona's collaborative effort on South West Expertise in Expanding Training, Education and Research (SWEETER) for AI with attendees from Western Arizona Community College and Diné College. SWEETER is a CC* funded program by the NSF.
 
@@ -198,7 +204,7 @@ In July, we travelled to Europe to visit with my wife's family friends in the Bl
 
 ## 08/12 - 08/16 GASC, Anchorage, Alaska
 
-![GASC](assets/gasc_logo.webp){width=300}
+[![GASC](assets/gasc_logo.webp){width=300}](https://autonomousalaska.com/){target=_blank}
 
 In August, I returned to Alaska to join the ACUASI group for their annual [Global Autonomous Systems Conference (GASC)](https://autonomousalaska.com/){target=_blank}. The various discussion panels centered around AI, UAS air mobility, and the use of foreign built small UAS by government.
 
@@ -210,7 +216,7 @@ The meeting was attended by numerous dignitaries, including the Governor of Alas
 
 ## 09/11 - 09/12 - MaGIC, Madison, Wisconsin
 
-![MaGIC](assets/magic_logo.png){width=400}
+[![MaGIC](assets/magic_logo.png){width=400}]((https://sbel.wisc.edu/magic){target=_blank}
 
 ![MaGIC Madison](assets/magic_madison.jpg){width=800}
 
@@ -222,7 +228,7 @@ I am now helping the MaGIC and SBEL teams to train and design generative AI tool
 
 ## 10/06 - 10/09 NCEMS, Chicago, Illinois
 
-![NCEMS](assets/ncems_logo.png){width=300}
+[![NCEMS](assets/ncems_logo.png){width=300}](https://ncems.psu.edu){target=_blank}
 
 ![NCEMS hotel](assets/ncems_hotel.jpg){width=800}
 
