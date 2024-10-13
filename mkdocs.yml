@@ -17,18 +17,19 @@ nav:
     - blog/index.md
   - Research: 
     - Current: current_projects.md
-    - Prior: previous_projects.md
-    - Grants & Awards: awards.md
+    - Previous: previous_projects.md
+    - Grants: awards.md
     - Publications: publications.md
     - ePublications: epubs.md
-  - Talks: talks.md
-  - Outreach: 
-    - Classes taught: teaching.md
-    - Working Groups: groups.md
+    - Talks: talks.md
+    - Team Science: groups.md
+  - Teaching: 
+    - Classes: teaching.md
     - Advising & Mentoring: mentoring.md
-  - Job Announcements: jobs.md
-  - Public Data Sets: data.md
-  - Code: code.md
+  - Opportunities: jobs.md
+  - Open Science: 
+    - Open Data Sets: data.md
+    - Open Code: code.md
   - CV: cv.md
 
 # Configuration
