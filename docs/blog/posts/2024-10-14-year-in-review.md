@@ -47,7 +47,7 @@ In early December, I flew to a foggy SLC for a meeting of the WestNet consortium
 
 ![Sun Corridor](assets/sun_corridor_logo.png){width=200} ![Internet2](assets/Internet2_logo.png){width=200} ![The Quilt](assets/quilt_logo.png){width=200}
 
-In my daily work, cyberinfrastructure is more `0` and `1` than it is laying fiber optic cable or big iron servers and firewalls. The [WestNet](https://www.westnet.net/){target=_blank} group included CTOs, DOTs, IT, DevOps, and Cloud managers from [Internet2](https://internet2.edu/){target=_blank}, [SunCorridor](https://suncorridor.org/){target=_blank} & [The Quilt](https://www.thequilt.net/){target=_blank}. It was interesting to learn about the physical infrastructure side of cyberinfrastructure for several days and to gain new insight into how the physical grid of the research internet works nationwide.
+In my daily work, cyberinfrastructure is more `0` and `1` than it is laying fiber optic cable or big iron servers and firewalls. The [WestNet](https://www.westnet.net/){target=_blank} group included CIOs, CSOs, CTOs, DOTs, IT, DevOps, and Cloud managers from [Internet2](https://internet2.edu/){target=_blank}, [SunCorridor](https://suncorridor.org/){target=_blank} & [The Quilt](https://www.thequilt.net/){target=_blank}. It was interesting to learn about the physical infrastructure side of cyberinfrastructure for several days and to gain new insight into how the physical grid of the research internet works nationwide.
 
 ## 12/4 - 12/6 NSF CISE, Tucson, AZ
 
