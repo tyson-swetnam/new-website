@@ -4,8 +4,7 @@ flake8
 grip
 ipykernel
 livereload
-mistune>=0.8.4
-nbconvert
+nbconvert>=7
 pip
 sphinx
 tox
@@ -16,21 +15,20 @@ mkdocs-git-revision-date-plugin
 mkdocs-jupyter 
 mkdocs-material 
 mkdocs-pdf-export-plugin
-markdown-include
-mkdocstrings-python==1.6.2
-mkdocstrings==0.22.0
+mkdocstrings 
+mkdocstrings-crystal
+mkdocstrings-python-legacy
+#pygments>=2.10,<2.12
+#pymdown-extensions<9.4
 
 # Requirements for core
-jinja2~=3.0
-markdown~=3.2
-mkdocs~=1.5,>=1.5.3
-mkdocs-material-extensions~=1.2
-pygments~=2.16
-pymdown-extensions~=10.2
+jinja2>=3.0.2
+markdown>=3.2
+mkdocs>=1.4.0
+mkdocs-material-extensions>=1.0.3
+pygments>=2.12
+pymdown-extensions>=9.4
 
 # Requirements for plugins
-babel~=2.10
-colorama~=0.4
-paginate~=0.5
-regex>=2022.4
-requests~=2.26
+requests>=2.26
+cairosvg

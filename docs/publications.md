@@ -2,8 +2,35 @@
 
 [:material-map-legend: emoji key](#emoji-key)
 
+**40. MDRepo – an open environment for data warehousing and knowledge discovery from molecular dynamics simulations**
+*Preprint in BiorXiv*
+
+:material-dna: :material-database:
+
+[10.1101/2024.07.11.602903](https://doi.org/10.1101/2024.07.11.602903){target=_blank}
+
+Roy A., E. Ward, I. Choi, M. Cosi, T. Edgin, T.S. Hughes, M.S. Islam, A.M. Khan, A. Kolekar, M. Rayl, I. Robinson, P. Sarando, E. Skidmore, T.L. Swetnam, M. Wall, Z. Xu, M.L. Yung, N. Merchant, T.J. Wheeler (2024) MDRepo – an open environment for data warehousing and knowledge discovery from molecular dynamics simulations. BiorXiv. https://doi.org/10.1101/2024.07.11.602903
+
+**39. Data Science for Biochemists: Integrating and Evaluating the Use of Interactive Digital Python Notebooks in a Large-Enrollment Undergraduate Biochemistry Course**
+*Published in Journal of Chemical Education*
+
+:material-handshake: :material-dna: :material-beaker: :octicons-mortar-board-24:
+
+[10.1021/acs.jchemed.4c00167](https://doi.org/10.1021/acs.jchemed.4c00167){target=_blank}
+
+Recommended Citation: Brunk R., K. Shukla, B.L. Hutson, Y. Wang, M. Verber, C. Ford, W. Dennis, A. Mehta, B.P. Hogan, T.L. Swetnam , & E. Brunk (2024) Data Science for Biochemists: Integrating and Evaluating the Use of Interactive Digital Python Notebooks in a Large-Enrollment Undergraduate Biochemistry Course. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.4c00167
+
+**38. NSF Major Facilities Cloud Use Cases and Considerations**
+*Peer-reviewed report, NSF CI-Compass*
+
+:material-handshake: :material-database: :material-creative-commons: :material-cloud: 
+
+[10.5281/zenodo.10481410](https://doi.org/10.5281/zenodo.10481410){target=_blank}
+
+Recommended Citation: Berriman, G.B., B. Dobbins, J. Fischer, B. Flynn, J. Glatstein, R. Mayani, L. Pottier, Loïc, C. Risien, B. Riedel, M. Rynge, E Scott, T.L. Swetnam, A. Tan, C. Trabant, K. Vahi, D. Brower, C. Vardeman (2024) NSF Major Facilities Cloud Use Cases and Considerations. https://doi.org/10.5281/zenodo.10481410
+
 **37. CyVerse: Cyberinfrastruture for Open Science**
-*Preprint BioArxiv, in review PLOS Computational Biology as Software Paper*
+*Published in PLOS Computational Biology*
 
 :material-handshake: :material-database: :material-leaf: :material-bug: :material-dna: :material-graph-outline: :material-language-r: :material-language-python: :material-creative-commons: :material-open-source-initiative: 
 
@@ -11,8 +38,7 @@
 
 Recommended Citation: Swetnam T.L, P.B. Antin, R. Bartelme, A. Bucksch, D. Camhy, G. Chism, I. Choi, A.M. Cooksey, M. Cosi, C.Cowen, M. Culshaw-Maurer, R. Davey, S. Davey, U.Devisetty, T. Edgin, A. Edmonds, D. Fedorov, J. Frady, J. Fonner, J.K. Gillan, I. Hossain, B.L. Joyce, K. Lang, T. Lee, S. Littin, I. Mcewen, N. Merchant, D. Micklos,  A. Nelson, A. Ramsey, S. Roberts, P. Sarando, E. Skidmore, J. Song, M.M. Sprinkle, S. Srinivasan, J.D. Strootman, S. Stryeck, R. Tuteja, M. Vaughn, M. Wali, M. Wall, R. Walls, L. Wang, T. Wickizer,  J. Williams, J.Wregglesworth, & E. Lyons (2023) CyVerse: Cyberinfrastructure for Open Science. BioArxiv https://doi.org/10.1101/2023.06.16.545223
 
-**36. Using knowledge graphs to infer gene
-expression in plants.**
+**36. Using knowledge graphs to infer gene expression in plants.**
 *Published in Frontiers in Artificial Intelligence*
 
 :material-database: :fontawesome-solid-wind: :material-leaf: :material-grass: :material-dna: :material-graph-outline: :material-language-r: :material-language-python: 

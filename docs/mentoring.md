@@ -1,14 +1,18 @@
-I typically employ graduate and undergraduate students in my lab group to support my personal research and the CyVerse cyberinfrastructure. I employ postdoctoral researchers via my [research awards](awards.md). 
+I typically employ graduate and undergraduate students in support my personal research, ICDI, and CyVerse. 
 
-I advise graduate students on their Master's and Doctoral committees at University of Arizona and at other universities when allowed. 
+I also employ postdoctoral researchers via [research awards](awards.md). 
+
+I co-advise graduate students at University of Arizona, and at other universities when allowed. 
 
 # Current
 
-* [Michael Culshaw-Maurer, Ph.D.](https://mcmaurer.github.io/){target=_blank} - Dr. Culshaw-Maurer is a behavioral ecologist and bioinformatics Postdoctoral Researcher. He leads workshops on Foundational Open Science Skills (FOSS) with CyVerse and digital literacy workshops with The Carpentries.
-* [Ifeoluwa Ale, BS](https://www.linkedin.com/in/ifeoluwa-ale-6733b61a9/){target=_blank} - Computer Science
 
 # Past
 
+* 2024 [Danyapriya Somasundaram, MS](https://www.linkedin.com/in/dhanyapriya-somasundaram/){target=_blank} - Data Science 
+* 2024 [Ifeoluwa Ale, BS](https://www.linkedin.com/in/ifeoluwa-ale-6733b61a9/){target=_blank} - Computer Science
+* 2023 [Elliott Hagyard, BS](https://www.linkedin.com/in/elliot-hagyard-823ab922b/){target=_blank} - Computer Science
+* 2022 [Michael Culshaw-Maurer, Ph.D.](https://mcmaurer.github.io/){target=_blank} - Dr. Culshaw-Maurer is a behavioral ecologist and bioinformatics Postdoctoral Researcher. He leads workshops on Foundational Open Science Skills (FOSS) with CyVerse and digital literacy workshops with The Carpentries.
 * 2021 [Anushka Bande, BS](https://www.linkedin.com/in/anushka-bande/){target=_blank} - Applied Mathematics and Information Science & Technology
 * 2021 [Sarah Jackson, BS](https://www.linkedin.com/in/sarah-jackson-040760193/){target=_blank} - Computer Science, Statistics and Data Science 
 * 2021 [Ryan Bartelme, Ph.D.](https://rbartelme.github.io/){target=_blank} is a computational biologist and data scientist interested in finding sustainable solutions to medical and environmental big data problems. Former CyVerse Postdoctoral Researcher

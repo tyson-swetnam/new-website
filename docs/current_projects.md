@@ -1,6 +1,14 @@
-I have served as Principal Investigator (PI) and co-Principal Investigator (co-PI) on over a dozen funded projects in the last 15 years.
+I have served as Principal Investigator (PI) and co-Principal Investigator (co-PI) for a dozen funded projects in the last 15 years.
 
 [:material-map-legend: emoji key](#emoji-key)
+
+### [National Synthesis Center for Emergence in the Molecular and Cellular Sciences](https://ncems.psu.edu/)
+
+:material-database: :material-dna: :material-family-tree: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r: :material-cloud:
+
+[![NSF-2335029](https://img.shields.io/badge/NSF-2335029-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335029)
+
+I am the site lead for Arizona on the [NCEMS](https://ncems.psu.edu) Synthesis Center at Penn State University.
 
 ### [CyVerse](https://cyverse.org) 
 
@@ -8,23 +16,15 @@ I have served as Principal Investigator (PI) and co-Principal Investigator (co-P
 
 :material-leaf: :material-dna: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-language-go:
 
-For the last six years I have worked for the CyVerse project. I started as a Science Analyst. I am now Co-PI and lead of the Science Team. 
+I am co-Principale Investigator of CyVerse and lead the science team. 
 
 ### [Environmental Data Science Innovation and Inclusion Lab (ESIIL)](https://esiil.org)
 
 [![NSF-2153040](https://img.shields.io/badge/NSF-2153040-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153040)
 
-:material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter:
+:material-database: :material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter:
 
-I am the site lead for UArizona on the [ESIIL](https://esiil.org) Synthesis Center directed out of University of Colorado Boulder.
-
-### Towards Distributed and Scalable Personalized Cyber-Training
-
-:material-handshake: :material-github: :material-docker: :material-language-python:
-
-[![NSF-1829701](https://img.shields.io/badge/NSF-1829701-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829701)
-
-This project is addressing the challenge of providing distributed, scalable, and personalized training of cyberinfrastructures - systems that offer state-of-the-art cloud services for storing, sharing, and processing scientific data. Today, personalized training of these rapidly evolving, and hence relatively undocumented, systems requires trainer-supervised, hands-on use of these systems.
+I am the site lead for Arizona on the [ESIIL](https://esiil.org) Synthesis Center at the University of Colorado Boulder.
 
 ### [Open Dendro](https://opendendro.github.io/opendendro)
 
@@ -66,7 +66,7 @@ I am senior personnel, assisting on a community conversation about collaboration
 
 :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r:
 
-I am senior personnel on [Genome 2 Fields: High Intensity Phenotyping at Scale (HIPS)](https://www.genomes2fields.org/funded-projects/#high-intensity-phenotyping-sites) project with Dr. Eric Lyons at UArizona, in collaboration with Iowa State University.
+I am senior personnel on [Genome 2 Fields: High Intensity Phenotyping at Scale (HIPS)](https://www.genomes2fields.org/funded-projects/#high-intensity-phenotyping-sites) project with Dr. Eric Lyons at Arizona, in collaboration with Iowa State University.
 
 ### NIFA FACTS & [AIIRA](https://aiira.iastate.edu/) 
 
