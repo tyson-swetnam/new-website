@@ -33,7 +33,7 @@ In September of 2023, Nirav and I visited Yale to meet with researchers working 
 
 The proposed observatoy would have been a compliment to the existing NEON and Ameriflux eddy-covariance networks. Unfortunately, this proposal was not funded and is again delayed. 
 
-## 10/23 - 10/25 NASA-ARID, Tucson Arizona
+## 10/23 - 10/25 NASA-ARID, Tucson, Arizona
 
 ![ARID](assets/arid_logo.webp){width=300}
 
@@ -61,7 +61,7 @@ Attendees learned about opportunities across the NSF CISE and CC* programs from 
 
 # 2024 - a year on the road
 
-## 01/08 - 01/10 OpenDendro, Tucson Arizona
+## 01/08 - 01/10 OpenDendro, Tucson, Arizona
 
 ![OpenDendro](assets/opendendro_logo.png){width=200}
 
@@ -196,7 +196,7 @@ In July, we travelled to Europe to visit with my wife's family friends in the Bl
 
 ![Euro Berlin](assets/euro_brandenburg.jpg){width=320} ![Euro Copenhagen](assets/euro_copenhagen.jpg){width=320}
 
-## 08/12 - 08/16 GASC, Anchorage Alaska
+## 08/12 - 08/16 GASC, Anchorage, Alaska
 
 ![GASC](assets/gasc_logo.webp){width=300}
 
@@ -208,7 +208,7 @@ The meeting was attended by numerous dignitaries, including the Governor of Alas
 
 ![GASC panel](assets/gasc_panel.jpg){width=800}
 
-## 09/11 - 09/12 - MaGIC, Madison Wisconsin
+## 09/11 - 09/12 - MaGIC, Madison, Wisconsin
 
 ![MaGIC](assets/magic_logo.png){width=400}
 
@@ -220,7 +220,7 @@ In September, I travelled to the University of Madison to meet with a group of r
 
 I am now helping the MaGIC and SBEL teams to train and design generative AI tools with robots, leveraging the large GPU resources from the [NSF ACCESS-CI](https://access-ci.org/){target=_blank} at Texas A&M (ACES). 
 
-## 10/06 - 10/09 NCEMS, Chicago Illinois
+## 10/06 - 10/09 NCEMS, Chicago, Illinois
 
 ![NCEMS](assets/ncems_logo.png){width=300}
 

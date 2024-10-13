@@ -6,6 +6,7 @@ Currently, I assist on the following projects and working groups as a member:
 
 | Group Name | Dates | Status |
 |------------|-------|--------|
+| [Faculty Senate Ad-Hoc Committee on Information Technology](https://facultygovernance.arizona.edu/events/faculty-senate-meeting-6){target=_blank} | 2024 - Present | Active |
 | [AI Access & Integrity (AI^2) Working Group](https://artificialintelligence.arizona.edu/about-us){target=_blank} | 2023 - Present | Active |
 | [Data Science Resource & Training (DSRT) Steering Committee](https://datascience.arizona.edu/dsrt){target=_blank} | 2019 - Present | Active |
 | [Research Bazaar Arizona (ResBazAz)](https://researchbazaar.arizona.edu/){target=_blank} | 2016 - Present | Inactive |

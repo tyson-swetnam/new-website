@@ -6,4 +6,3 @@ social:
     title: Unlocking Innovation Through Open Science
 ---
 
-Welcome to my website
