@@ -65,7 +65,7 @@ Attendees learned about opportunities across the NSF CISE and CC* programs from 
 
 [![OpenDendro](assets/opendendro_logo.png){width=200}](https://opendendro.org/){target=_blank}
 
-As we approached the end of our NSF collaborative research award to update legacy software for dendrochronological research, we hosted a summit on the state of the scientific software used by the dendro community. Principal Investigator's of [OpenDendro](https://opendendro.org/){target=_blank}, Kevin Anchukaitis and Andy Bunn, brought a group of technically saavy dendrochronologists to the[Laboratory of Tree Ring Research](https://ltrr.arizona.edu){target=_blank}, where the science of dendrochronology was born, to learn more about the work we've achieved. 
+As we approached the end of our NSF collaborative research award to update legacy software for dendrochronological research, we hosted a summit on the state of the scientific software used by the dendro community. Principal Investigator's of [OpenDendro](https://opendendro.org/){target=_blank}, Kevin Anchukaitis and Andy Bunn, brought a group of technically saavy dendrochronologists to the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu){target=_blank}, where the science of dendrochronology was born, to learn more about the work we've achieved. 
 
 ![OpenDendro class](assets/opendendro_class.jpg){width=320} ![OpenDendo Kevin](assets/opendendro_kevin.jpg){width=320}
 
@@ -180,7 +180,7 @@ The [USDA-ARS LTAR meeting](https://ltar.ars.usda.gov/ltar-home-extended/){targe
 
 ![LTAR Guertin](assets/ltar_guertin.jpg){width=800} 
 
-Earlier in February my master's advisor Phil D. Guertin, a longtime collaborator with SWWRC, retired from University of Arizona after a multi-decade career in Watershed Management (photo by Laura Norman, USGS). 
+Earlier in February my master's advisor D. Phil Guertin, a longtime collaborator with SWWRC, retired from University of Arizona after a multi-decade career in Watershed Management (photo by Laura Norman, USGS). 
 
 ## 06/20 - 06/21 SWEETER, Tucson, Arizona
 
@@ -216,7 +216,7 @@ The meeting was attended by numerous dignitaries, including the Governor of Alas
 
 ## 09/11 - 09/12 - MaGIC, Madison, Wisconsin
 
-[![MaGIC](assets/magic_logo.png){width=400}]((https://sbel.wisc.edu/magic){target=_blank}
+[![MaGIC](assets/magic_logo.png){width=400}](https://sbel.wisc.edu/magic){target=_blank}
 
 ![MaGIC Madison](assets/magic_madison.jpg){width=800}
 
