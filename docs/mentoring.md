@@ -6,10 +6,12 @@ I co-advise graduate students at University of Arizona, and at other universitie
 
 # Current
 
-
+* 2025 [Bitan Mani, MBA/MIS](https://www.linkedin.com/in/bitan-mani/){target=_blank} - Eller College of Management
+  
 # Past
 
-* 2024 [Danyapriya Somasundaram, MS](https://www.linkedin.com/in/dhanyapriya-somasundaram/){target=_blank} - Data Science 
+* 2024 [Naman Jain, MSBA](https://www.linkedin.com/in/naman-jain-60b805179/) - Eller College of Management
+* 2024 [Dhanyapriya Somasundaram, MS](https://www.linkedin.com/in/dhanyapriya-somasundaram/){target=_blank} - Data Science 
 * 2024 [Ifeoluwa Ale, BS](https://www.linkedin.com/in/ifeoluwa-ale-6733b61a9/){target=_blank} - Computer Science
 * 2023 [Elliott Hagyard, BS](https://www.linkedin.com/in/elliot-hagyard-823ab922b/){target=_blank} - Computer Science
 * 2022 [Michael Culshaw-Maurer, Ph.D.](https://mcmaurer.github.io/){target=_blank} - Dr. Culshaw-Maurer is a behavioral ecologist and bioinformatics Postdoctoral Researcher. He leads workshops on Foundational Open Science Skills (FOSS) with CyVerse and digital literacy workshops with The Carpentries.
