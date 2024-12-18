@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[Download my latest CV :fontawesome-solid-file-pdf:](https://github.com/tyson-swetnam/home/blob/af1c9a482ccd4339bbb96aa0e2e318ffc9cf860e/docs/assets/2023_06_20_Swetnam_CV.pdf){target=_blank}
+[Download my latest CV :fontawesome-solid-file-pdf:](https://github.com/tyson-swetnam/home/blob/adcc2014c3f13bde5b0dc2928f8817686103a8c9/docs/assets/2024_12_05_Swetnam_CV.pdf){target=_blank}
       
 ### Foundational experiences
 
