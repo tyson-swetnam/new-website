@@ -8,7 +8,7 @@ I have served as Principal Investigator (PI) and co-Principal Investigator (co-P
 
 [![NSF-2335029](https://img.shields.io/badge/NSF-2335029-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335029)
 
-I am the site lead for Arizona on the [NCEMS](https://ncems.psu.edu) Synthesis Center at Penn State University.
+I am the site lead for CyVerse and University of Arizona on the [NCEMS](https://ncems.psu.edu) Synthesis Center at Penn State University.
 
 ### [CyVerse](https://cyverse.org) 
 
@@ -16,7 +16,7 @@ I am the site lead for Arizona on the [NCEMS](https://ncems.psu.edu) Synthesis C
 
 :material-leaf: :material-dna: :material-github: :material-docker: :material-linux: :material-language-python: :material-language-r: :material-language-go:
 
-I am co-Principale Investigator of CyVerse and lead the science team. 
+I am co-Principal Investigator of CyVerse and lead the science team. 
 
 ### [Environmental Data Science Innovation and Inclusion Lab (ESIIL)](https://esiil.org)
 
@@ -24,7 +24,7 @@ I am co-Principale Investigator of CyVerse and lead the science team.
 
 :material-database: :material-weather-snowy-rainy: :material-pine-tree-fire: :material-forest: :material-leaf: :material-dna: :material-graph: :material-github: :material-docker: :material-language-python: :material-language-r: :material-satellite-variant: :material-airplane: :material-quadcopter:
 
-I am the site lead for Arizona on the [ESIIL](https://esiil.org) Synthesis Center at the University of Colorado Boulder.
+I am the site lead for CyVerse and University of Arizona on the [ESIIL](https://esiil.org) Synthesis Center at the University of Colorado Boulder.
 
 ### [Open Dendro](https://opendendro.github.io/opendendro)
 
