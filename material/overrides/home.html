@@ -1,4 +1,5 @@
 {% extends "main.html" %}
+
 {% block tabs %}
   {{ super() }}
   <style>
@@ -7,16 +8,72 @@
     .md-content { display: none; }
     @media screen and (min-width: 60em) { .md-sidebar--secondary { display: none; } }
     @media screen and (min-width: 76.25em) { .md-sidebar--primary { display: none; } }
+    .card {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      transition: 0.3s;
+      width: 300px;
+      margin: 10px;
+      padding: 16px;
+      background-color: white;
+      border-radius: 5px;
+      text-align: center;
+    }
+    .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+    .card img {
+      border-radius: 5px 5px 0 0;
+      max-width: 100%;
+      height: auto;
+    }
+    .card-title {
+      font-size: 18px;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+    .card-description {
+      font-size: 14px;
+      color: gray;
+    }
+    .card a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+    .card a:hover {
+      text-decoration: underline;
+    }
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
   </style>
   <section class="mdx-container">
     <div class="md-grid md-typeset">
-      <div class="mdx-hero">
-        <div class="mdx-hero__image">
-          <img src="assets/oldmain.jpg" alt="" width="1800" height="1200" draggable="false">
+      <div class="card-container">
+        <div class="card">
+          <img src="blog/assets/tacc_tyson.jpeg" alt="Research">
+          <div class="card-title">Research</div>
+          <div class="card-description">Explore current and past projects, publications, and grants.</div>
+          <a href="/current_projects">Learn More</a>
+        </div>
+        <div class="card">
+          <img src="blog/assets/opendendro_class.jpg" alt="Teaching">
+          <div class="card-title">Teaching</div>
+          <div class="card-description">Discover courses, mentoring, and advising activities.</div>
+          <a href="/teaching">Learn More</a>
+        </div>
+        <div class="card">
+          <img src="blog/assets/b2_group.jpg" alt="Open Science">
+          <div class="card-title">Open Science</div>
+          <div class="card-description">Access datasets, code, and open science initiatives.</div>
+          <a href="/data">Learn More</a>
         </div>
       </div>
     </div>
   </section>
 {% endblock %}
+
 {% block content %}{% endblock %}
 {% block footer %}{% endblock %}
